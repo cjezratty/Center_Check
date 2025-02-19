@@ -1,0 +1,3331 @@
+city,Income Poverty Rate (%),Percent of Households Who Are Unbanked  (%),Percent of Households Who Are Underbanked  (%)
+"Altamonte Springs, FL",10.6,2,13
+"Apopka, FL",10.6,5,18
+"Aventura, FL",11.2,5,19
+"Bayonet Point, FL",18,4,13
+"Bonita Springs, FL",8.6,2,9
+"Bradenton, FL",14.7,4,12
+"Buenaventura Lakes, FL",11.9,3,15
+"Carrollwood, FL",7.3,4,15
+"Casselberry, FL",15.5,3,13
+"Citrus Park, FL",11.5,3,15
+"Clermont, FL",8.2,3,12
+"Coconut Creek, FL",9.2,4,16
+"Cooper City, FL",4.4,3,15
+"Coral Gables, FL",7.5,3,15
+"Coral Terrace, FL",13,4,19
+"Country Club, FL",16,5,22
+"Cutler Bay, FL",11.7,5,20
+"Dania Beach, FL",16.8,5,18
+"Daytona Beach, FL",21.8,5,13
+"DeLand, FL",11.4,3,12
+"Delray Beach, FL",12.3,3,11
+"Doral, FL",10.4,5,24
+"Dunedin, FL",9.7,3,10
+"East Lake, FL",8.7,3,10
+"East Lake-Orient Park, FL",16.6,6,18
+"Egypt Lake-Leto, FL",17.4,4,15
+"Estero, FL",6.4,2,9
+"Ferry Pass, FL",15.7,4,13
+"Fleming Island, FL",3.7,3,12
+Florida,13.1,4,18
+"Fort Pierce, FL",27.1,6,15
+"Fountainebleau, FL",12.7,7,25
+"Four Corners, FL",12,4,14
+"Fruit Cove, FL",2.1,2,9
+"Golden Gate, FL",13.3,4,13
+"Golden Glades, FL",19.2,10,27
+"Greenacres, FL",15.3,6,20
+"Hallandale Beach, FL",20.6,6,23
+"Homestead, FL",21.4,8,23
+"Horizon West, FL",7.2,2,15
+"Immokalee, FL",28.4,4,14
+"Jupiter, FL",7.2,2,9
+"Kendale Lakes, FL",11.7,5,21
+"Kendall West, FL",15,5,21
+"Keystone, FL",3.6,3,15
+"Kissimmee, FL",24.6,5,19
+"Lake Magdalene, FL",11.6,4,15
+"Lakeside, FL",10.1,3,12
+"Land O' Lakes, FL",8.2,2,11
+"Lauderdale Lakes, FL",20.5,10,26
+"Lauderhill, FL",19.3,11,27
+"Leisure City, FL",23.1,10,25
+"Margate, FL",12.3,4,16
+"Meadow Woods, FL",9,3,17
+"Merritt Island, FL",6.9,2,9
+"Miami Lakes, FL",6.1,5,22
+"Navarre, FL",10.3,2,11
+"New Smyrna Beach, FL",10.6,3,11
+"North Fort Myers, FL",13.4,5,15
+"North Lauderdale, FL",17.6,6,18
+"North Miami Beach, FL",12,6,22
+"North Miami, FL",19.4,9,26
+"North Port, FL",5.6,2,9
+"Oakland Park, FL",15.8,6,19
+"Oakleaf Plantation, FL",7.3,3,12
+"Ocala, FL",18,5,14
+"Ocoee, FL",10.4,5,17
+"Ormond Beach, FL",9.1,5,13
+"Oviedo, FL",5.8,2,12
+"Palm Beach Gardens, FL",6.1,4,12
+"Palm Harbor, FL",9.2,3,10
+"Panama City, FL",17.8,4,13
+"Parkland, FL",4.1,3,16
+"Pensacola, FL",15.3,5,15
+"Pinellas Park, FL",13.2,4,13
+"Plant City, FL",15.5,5,15
+"Poinciana, FL",12.9,5,17
+"Port Charlotte, FL",12,3,9
+"Port Orange, FL",12.7,3,11
+"Princeton, FL",11.2,6,21
+"Richmond West, FL",10.2,4,20
+"Riviera Beach, FL",19.3,4,13
+"Rockledge, FL",8.4,3,11
+"Royal Palm Beach, FL",3.9,5,16
+"Ruskin, FL",16.9,3,13
+"Sanford, FL",14.2,4,15
+"Sarasota, FL",14.4,3,11
+"Sebastian, FL",7.8,3,10
+"South Bradenton, FL",16.7,4,13
+"South Miami Heights, FL",17.7,7,23
+"St. Cloud, FL",11.3,3,15
+"Tamarac, FL",12.6,6,19
+"Tamiami, FL",11.9,5,22
+"Tarpon Springs, FL",11.7,3,10
+"Temple Terrace, FL",14.8,6,18
+"The Acreage, FL",4.8,6,17
+"The Hammocks, FL",12.8,3,20
+"Titusville, FL",12.8,3,11
+US,12.8,5,14
+"University, FL",37,6,18
+"University, FL",24.9,4,17
+"Valrico, FL",8.5,4,15
+"Wellington, FL",6.2,2,11
+"Wesley Chapel, FL",7.1,2,12
+"West Little River, FL",22.4,12,27
+"Westchester, FL",10.3,4,19
+"Weston, FL",5.7,2,15
+"Winter Garden, FL",10.3,5,17
+"Winter Haven, FL",15.6,5,15
+"Winter Park, FL",8.8,5,15
+"Winter Springs, FL",6.5,3,13
+"Acworth, GA",8.6,3,14
+"Americus, GA",28.7,10,16
+"Apollo Beach, FL",3.9,3,13
+"Asbury Lake, FL",7.3,3,12
+"Atlantic Beach, FL",4.2,2,12
+"Auburndale, FL",12.4,5,15
+"Avon Park, FL",22.8,7,15
+"Azalea Park, FL",16.6,5,16
+"Bainbridge, GA",19.9,11,17
+"Bartow, FL",16.9,5,14
+"Bayshore Gardens, FL",15.7,3,10
+"Bellair-Meadowbrook Terrace, FL",13.8,3,12
+"Belle Glade, FL",34.6,6,17
+"Bellview, FL",12.5,5,14
+"Belvedere Park, GA",15,6,16
+"Bloomingdale, FL",4.8,3,13
+"Braselton, GA",3.6,4,14
+"Brent, FL",23.3,5,15
+"Brownsville, FL",36,9,25
+"Brunswick, GA",32.8,6,14
+"Buford, GA",13,3,14
+"Calhoun, GA",24.3,5,13
+"Callaway, FL",12.5,4,13
+"Candler-McAfee, GA",16.9,6,16
+"Cape Canaveral, FL",9.7,2,9
+"Cartersville, GA",14.9,4,14
+"Cheval, FL",5.5,4,15
+"Clarkston, GA",25.9,6,19
+"Cocoa Beach, FL",9.8,2,9
+"Cocoa, FL",12.6,3,11
+"College Park, GA",19.7,8,23
+"Conway, FL",6.4,7,20
+"Conyers, GA",17.5,5,18
+"Cordele, GA",39.5,10,16
+"Country Walk, FL",5.9,3,19
+"Covington, GA",21,5,18
+"Crestview, FL",12.5,3,13
+"Cusseta, GA",17.8,7,19
+"Cypress Gardens, FL",8.2,4,14
+"Cypress Lake, FL",7.9,2,9
+"Dallas, GA",16.5,2,13
+"DeBary, FL",5.7,3,12
+"Decatur, GA",7.3,6,16
+"Destin, FL",10.1,3,13
+"Doctor Phillips, FL",11,2,15
+"Doraville, GA",22.8,4,15
+"Douglas, GA",28.2,9,16
+"Dublin, GA",33.8,9,16
+"East Milton, FL",9.1,2,11
+"Edgewater, FL",9.7,3,10
+"Elfers, FL",13.9,5,13
+"Englewood, FL",7.8,2,9
+"Ensley, FL",17.4,4,13
+"Eustis, FL",13.2,4,11
+"Fairburn, GA",25.3,6,22
+"Fairview Shores, FL",14.1,5,15
+"Fayetteville, GA",8.2,2,12
+"Fernandina Beach, FL",10.2,3,10
+"Fish Hawk, FL",8.7,3,13
+Florida,13.1,4,18
+"Florida City, FL",31.9,9,23
+"Florida Ridge, FL",10.5,3,10
+"Forest City, FL",8.7,2,13
+"Forest Park, GA",20.8,9,25
+"Fort Walton Beach, FL",14.1,3,13
+"Fruitville, FL",7.8,3,11
+"Fuller Heights, FL",8.8,4,13
+"Gateway, FL",3.7,5,16
+"Georgetown, GA",9.2,5,16
+Georgia,14,7,17
+"Gibsonton, FL",19.9,3,13
+"Gifford, FL",48.6,3,10
+"Gladeview, FL",34.8,12,27
+"Glenvar Heights, FL",10,4,19
+"Goldenrod, FL",16.6,4,16
+"Gonzalez, FL",4,4,13
+"Goulds, FL",24.6,7,24
+"Griffin, GA",25.8,7,15
+"Groveland, FL",9.3,3,12
+"Grovetown, GA",12.2,2,12
+"Gulfport, FL",12.9,3,11
+"Haines City, FL",19.7,5,15
+"Hialeah Gardens, FL",14,6,23
+"Highland City, FL",6,4,13
+"Hobe Sound, FL",11.2,3,9
+"Holiday, FL",20.3,5,13
+"Holly Hill, FL",24.6,5,14
+"Holly Springs, GA",3.8,2,11
+"Homosassa Springs, FL",18.2,4,11
+"Hudson, FL",16.2,4,12
+"Hunters Creek, FL",6.2,2,16
+"Iona, FL",8,2,9
+"Ives Estates, FL",10.6,7,23
+"Jacksonville Beach, FL",7,2,12
+"Jasmine Estates, FL",20.2,4,12
+"Jefferson, GA",9.8,4,13
+"Jensen Beach, FL",18.8,3,9
+"Jupiter Farms, FL",2.6,2,9
+"Key Biscayne, FL",7.6,4,19
+"Key West, FL",11.6,5,16
+"Kingsland, GA",16.9,6,14
+"Lady Lake, FL",14,3,9
+"Lake Butler, FL",5.4,3,15
+"Lake City, FL",18.4,6,14
+"Lake Mary, FL",3.5,4,15
+"Lake Wales, FL",16.9,5,14
+"Lakeland Highlands, FL",3.9,4,13
+"Lakewood Park, FL",10.3,6,15
+"Lantana, FL",11.6,6,18
+"Lealman, FL",13.3,4,13
+"Leesburg, FL",23,3,9
+"Lighthouse Point, FL",7.3,5,16
+"Lilburn, GA",19.7,6,22
+"Lithia Springs, GA",17,5,18
+"Lockhart, FL",10.6,5,16
+"Loganville, GA",9.5,4,15
+"Longwood, FL",8.5,4,15
+"Lutz, FL",3.7,4,15
+"Lynn Haven, FL",9.9,4,13
+"Maitland, FL",10.5,5,15
+"Mango, FL",25.3,5,15
+"Marco Island, FL",5.8,4,14
+"McDonough, GA",11.3,4,17
+"Medulla, FL",7,4,13
+"Miami Shores, FL",5.6,5,19
+"Miami Springs, FL",10.3,9,25
+"Middleburg, FL",7.2,3,12
+"Midway, FL",8.5,2,11
+"Milledgeville, GA",39.1,7,15
+"Minneola, FL",3.9,3,12
+"Monroe, GA",33.7,4,13
+"Moultrie, GA",24.7,8,17
+"Mount Dora, FL",15.4,3,12
+"Mountain Park, GA",8.7,5,21
+"Myrtle Grove, FL",15.1,5,15
+"Naples, FL",6.4,4,13
+"Naranja, FL",29.1,10,25
+"New Port Richey East, FL",14.1,3,11
+"New Port Richey, FL",15.2,5,13
+"Niceville, FL",9.1,3,13
+"Nocatee, FL",4.2,2,9
+"Norcross, GA",15,5,19
+"North Decatur, GA",8.9,6,18
+"North Druid Hills, GA",13.6,6,17
+"North Palm Beach, FL",5.2,4,13
+"Northdale, FL",4.6,4,15
+"Oak Ridge, FL",26.6,7,20
+"Ojus, FL",11.2,6,21
+"Oldsmar, FL",10.3,3,10
+"Olympia Heights, FL",14.8,4,19
+"Opa-locka, FL",35.4,12,27
+"Orange City, FL",13.2,3,12
+"Pace, FL",11,2,11
+"Palatka, FL",33.2,6,13
+"Palm City, FL",5.8,3,9
+"Palm River-Clair Mel, FL",18.6,4,16
+"Palm Springs, FL",12.8,6,20
+"Palm Valley, FL",3.2,2,9
+"Palmetto Bay, FL",5.7,5,20
+"Palmetto Estates, FL",8.7,5,20
+"Palmetto, FL",18.6,3,11
+"Panama City Beach, FL",8.6,4,13
+"Panthersville, GA",20.7,7,22
+"Pasadena Hills, FL",7.8,3,12
+"Pebble Creek, FL",9,6,18
+"Perry, GA",13.9,5,15
+"Pine Castle, FL",32.3,7,20
+"Pine Ridge, FL",7,4,11
+"Pinecrest, FL",7.7,3,15
+"Pinewood, FL",20.4,12,27
+"Pooler, GA",3.7,3,14
+"Port Salerno, FL",11.5,3,9
+"Port St. John, FL",11.9,3,11
+"Powder Springs, GA",8.6,3,15
+"Progress Village, FL",17.7,4,16
+"Punta Gorda, FL",9.3,3,9
+"Richmond Heights, FL",9.2,6,22
+"Richmond Hill, GA",10.5,5,18
+"Rincon, GA",12.5,6,15
+"Riverdale, GA",13.2,9,25
+"Safety Harbor, FL",5.7,3,10
+"San Carlos Park, FL",9.8,2,9
+"Sarasota Springs, FL",11,2,10
+"Satellite Beach, FL",3.6,2,9
+"Scottdale, GA",10.2,6,17
+"Sebring, FL",26.7,6,14
+"Seminole, FL",10.8,2,9
+"Shady Hills, FL",16.2,3,10
+"Snellville, GA",8,3,18
+"South Daytona, FL",17.8,3,10
+"South Miami, FL",14.7,4,19
+"South Venice, FL",6.5,2,9
+"Southchase, FL",14.3,3,17
+"St. Augustine, FL",13.8,2,9
+"St. Marys, GA",18.4,6,14
+"St. Simons, GA",4.3,6,14
+"Stuart, FL",14.4,3,9
+"Sugar Hill, GA",8.2,3,13
+"Sun City Center, FL",8.4,3,13
+"Sunny Isles Beach, FL",14.8,4,17
+"Sunset, FL",11.1,4,19
+"Suwanee, GA",9.5,3,14
+"Sweetwater, FL",17,6,24
+"Tavares, FL",9.9,3,12
+"The Crossings, FL",11.1,4,20
+"Thomasville, GA",19.3,8,17
+"Thonotosassa, FL",18.6,5,16
+"Three Lakes, FL",15.3,5,21
+"Tifton, GA",25.9,9,17
+"Trinity, FL",10.3,2,11
+"Union City, GA",8.6,6,22
+"Union Park, FL",15.1,4,17
+US,12.8,5,14
+"Upper Grand Lagoon, FL",8.6,4,13
+"Venice, FL",6.6,2,9
+"Vero Beach South, FL",10.3,3,10
+"Vero Beach, FL",12.8,3,10
+"Vidalia, GA",22.8,9,16
+"Viera East, FL",2.6,3,11
+"Viera West, FL",3.5,3,11
+"Villa Rica, GA",7.1,5,16
+"Villas, FL",7,3,9
+"Vinings, GA",3.3,4,17
+"Warrington, FL",20.6,5,15
+"Waycross, GA",34.3,9,16
+"Wekiwa Springs, FL",5,2,13
+"West Lealman, FL",14.1,4,13
+"West Melbourne, FL",4.4,3,11
+"West Park, FL",18.1,6,23
+"West Pensacola, FL",24,5,15
+"Westchase, FL",6.5,3,15
+"Westview, FL",24.8,12,27
+"Westwood Lakes, FL",9.2,4,19
+"Wilmington Island, GA",3.2,3,13
+"Wilton Manors, FL",6.2,6,19
+"Winder, GA",13.8,4,13
+"World Golf Village, FL",4.1,2,9
+"Wright, FL",18.1,3,13
+"Yulee, FL",15.2,3,10
+"Zephyrhills, FL",16.2,3,12
+"Addison, IL",11.6,3,14
+"Alexandria, LA",27.1,7,16
+"Algonquin, IL",4.8,3,11
+"Alton, IL",24.4,5,12
+"Ames, IA",26.4,3,12
+"Anderson, IN",22.1,5,12
+"Ankeny, IA",4.2,2,10
+"Bartlett, IL",3.6,3,14
+"Batavia, IL",4.8,2,9
+"Belleville, IL",14.7,4,12
+"Belvidere, IL",14.4,3,11
+"Berwyn, IL",11.6,6,18
+"Bettendorf, IA",7.2,3,11
+"Bolingbrook, IL",7.9,2,12
+"Bossier City, LA",20.1,6,15
+"Bowling Green, KY",25.5,5,14
+"Brownsburg, IN",6.1,2,10
+"Buffalo Grove, IL",5.2,2,10
+"Burbank, IL",11.1,3,13
+"Calumet City, IL",21.5,8,21
+"Carbondale, IL",40.5,6,13
+"Carol Stream, IL",7.3,3,12
+"Carpentersville, IL",11,5,16
+"Cedar Falls, IA",17.1,4,12
+"Central, LA",5.9,7,18
+"Chicago Heights, IL",22.8,5,18
+"Clinton, IA",17.8,4,12
+"Columbus, IN",11.7,4,12
+"Council Bluffs, IA",12.7,3,11
+"Covington, KY",23.9,4,11
+"Crown Point, IN",5.8,2,10
+"Crystal Lake, IL",5.8,2,10
+"Danville, IL",28.5,5,12
+"DeKalb, IL",26.8,3,13
+"Decatur, IL",19.7,5,12
+"Des Plaines, IL",8,3,12
+"Dodge City, KS",14,8,18
+"Downers Grove, IL",5.2,2,10
+"Dubuque, IA",12.3,3,10
+"East Chicago, IN",27.8,8,19
+"East St. Louis, IL",29.3,9,17
+"Edwardsville, IL",14.3,2,10
+"Elizabethtown, KY",12,4,13
+"Elk Grove Village, IL",5.5,3,13
+"Elkhart, IN",19.6,5,13
+"Elmhurst, IL",4.1,2,11
+"Evanston, IL",11.9,3,12
+"Florence, KY",7.7,2,11
+"Frankfort, KY",16.3,4,13
+"Franklin, IN",11.7,2,11
+"Galesburg, IL",19.8,4,11
+"Garden City, KS",13.7,8,18
+"Georgetown, KY",12.3,4,12
+"Glen Ellyn, IL",5.1,2,10
+"Glendale Heights, IL",9.6,3,13
+"Glenview, IL",5.3,1,8
+"Goshen, IN",15.4,5,13
+"Granger, IN",3.8,3,11
+"Granite City, IL",18,5,12
+"Greenwood, IN",7.6,2,11
+"Gurnee, IL",4.7,2,12
+"Hanover Park, IL",13.9,3,14
+"Henderson, KY",20,6,13
+"Highland Park, IL",3.2,1,9
+"Hobart, IN",13.7,5,15
+"Hoffman Estates, IL",5.2,2,13
+"Hopkinsville, KY",20.4,6,15
+"Houma, LA",19.5,5,14
+"Huntley, IL",5.9,2,10
+"Hutchinson, KS",13.1,4,12
+Illinois,12.1,4,10
+"Independence, KY",7.7,4,11
+Indiana,12.2,6,12
+Iowa,11.1,3,10
+"Iowa City, IA",26.8,3,13
+"Jeffersontown, KY",6.5,2,11
+"Jeffersonville, IN",11.5,4,12
+"Kankakee, IL",28.2,5,13
+Kansas,11.7,4,16
+"Kenner, LA",15.6,5,15
+Kentucky,16.5,5,16
+"Kokomo, IN",14.5,4,12
+"Lafayette, IN",16.8,4,13
+"Lake in the Hills, IL",3.1,2,10
+"Lansing, IL",15.4,7,20
+"Laplace, LA",12.4,5,15
+"Lawrence, IN",10.7,8,16
+"Leavenworth, KS",13.1,3,12
+"Leawood, KS",2,1,10
+"Lenexa, KS",5.1,2,10
+"Lockport, IL",7.1,2,10
+"Lombard, IL",6.6,2,10
+Louisiana,19.6,8,20
+"Manhattan, KS",25.9,5,15
+"Marion, IN",28.5,5,13
+"Marion, IA",7.1,3,11
+"Marrero, LA",22.1,7,17
+"Marshalltown, IA",14.6,3,12
+"Mason City, IA",10.9,3,11
+"McHenry, IL",8,2,10
+"Melrose Park, IL",12.8,4,16
+"Merrillville, IN",13.1,2,11
+"Michigan City, IN",21.2,4,12
+"Mishawaka, IN",17.5,3,11
+"Moline, IL",15.1,4,12
+"Monroe, LA",34.9,8,16
+"Mount Prospect, IL",4.7,3,13
+"Muncie, IN",30.4,5,13
+"Mundelein, IL",7.3,2,10
+"New Albany, IN",17.4,4,11
+"New Iberia, LA",27.8,8,16
+"New Lenox, IL",2.5,2,10
+"Nicholasville, KY",14.9,5,12
+"Niles, IL",7.9,3,12
+"Noblesville, IN",5.2,1,9
+"Normal, IL",25.6,2,9
+"North Chicago, IL",21.4,4,14
+"Northbrook, IL",3.5,1,8
+"O'Fallon, IL",4.8,5,13
+"Oak Forest, IL",4.9,4,15
+"Oak Lawn, IL",10.2,4,15
+"Oak Park, IL",6.7,6,18
+"Orland Park, IL",5,2,10
+"Oswego, IL",2.2,2,11
+"Owensboro, KY",20.2,4,12
+"Palatine, IL",11.1,2,12
+"Park Ridge, IL",4,3,12
+"Pekin, IL",15,3,10
+"Plainfield, IN",7.4,2,10
+"Plainfield, IL",2.3,2,12
+"Portage, IN",13.8,3,11
+"Prairieville, LA",3.7,4,13
+"Quincy, IL",14.4,4,12
+"Richmond, IN",22.7,5,14
+"Richmond, KY",24.3,5,14
+"Rock Island, IL",21.7,4,12
+"Romeoville, IL",6.6,2,12
+"Round Lake Beach, IL",7.7,2,12
+"Salina, KS",12.1,4,12
+"Schaumburg, IL",6,2,13
+"Schererville, IN",6.3,2,11
+"Shawnee, KS",5.9,2,10
+"Skokie, IL",9.1,3,12
+"Slidell, LA",14.1,4,12
+"St. Charles, IL",3.5,2,9
+"Streamwood, IL",7.8,3,15
+"Terre Haute, IN",25.9,3,11
+"Tinley Park, IL",5.4,2,11
+US,12.8,5,14
+"Urbana, IL",27.1,4,14
+"Urbandale, IA",5.9,2,10
+"Valparaiso, IN",15.4,3,11
+"Vernon Hills, IL",5.6,2,10
+"Waterloo, IA",16.4,4,12
+"West Chicago, IL",11.3,3,13
+"West Des Moines, IA",6.6,2,10
+"West Lafayette, IN",37.5,4,13
+"Westfield, IN",4.6,2,10
+"Wheaton, IL",5.3,2,10
+"Wheeling, IL",9,2,12
+"Wilmette, IL",2.7,1,8
+"Woodridge, IL",4.5,2,11
+"Woodstock, IL",8.8,3,11
+"Zionsville, IN",4.3,2,10
+"Alsip, IL",8.2,4,15
+"Ammon, ID",5.5,3,12
+"Antioch, IL",8.8,2,12
+"Auburn, IN",9.7,4,13
+"Avon, IN",5.3,2,10
+"Barrington, IL",5.1,2,10
+"Beach Park, IL",7.9,7,20
+"Bedford, IN",16.9,4,12
+"Beech Grove, IN",11.8,6,15
+"Bellwood, IL",10.2,4,16
+"Bensenville, IL",8.9,3,14
+"Blackfoot, ID",13.9,4,13
+"Bloomingdale, IL",7.4,3,13
+"Blue Island, IL",18.3,4,15
+"Boulder Hill, IL",5.9,2,11
+"Bourbonnais, IL",8.3,5,13
+"Bradley, IL",9.1,5,13
+"Bridgeview, IL",14.9,3,13
+"Brookfield, IL",6.2,4,15
+"Burley, ID",12.8,5,14
+"Burr Ridge, IL",4.8,2,11
+"Cahokia, IL",35.4,9,17
+"Campton Hills, IL",2.3,1,8
+"Canton, IL",17.3,4,11
+"Cary, IL",3.1,2,10
+"Cedar Lake, IN",4.9,2,10
+"Centralia, IL",23.8,4,12
+"Channahon, IL",3.8,3,12
+"Charleston, IL",26.7,5,13
+"Chatham, IL",4.3,4,11
+"Chesterton, IN",11.5,3,11
+"Chicago Ridge, IL",20.1,4,15
+"Chubbuck, ID",8.6,3,12
+"Clarksville, IN",13.4,4,12
+"Collinsville, IL",12.9,3,11
+"Columbia, IL",4.8,4,12
+"Connersville, IN",22.3,5,14
+"Country Club Hills, IL",10.5,4,16
+"Crawfordsville, IN",20,4,13
+"Crest Hill, IL",10.5,3,12
+"Crestwood, IL",9.9,4,15
+"Darien, IL",4.9,2,10
+"Deerfield, IL",3.4,1,9
+"Dixon, IL",16.8,4,12
+"Dolton, IL",19.6,8,21
+"Dyer, IN",5.6,2,11
+"East Moline, IL",14,4,12
+"East Peoria, IL",10.6,3,10
+"Effingham, IL",17.7,3,11
+"Elmwood Park, IL",5.5,4,16
+"Evergreen Park, IL",5.5,4,15
+"Ewa Beach, HI",6.6,2,15
+"Fairview Heights, IL",8.8,9,17
+"Forest Park, IL",10.5,4,16
+"Fox Lake, IL",13.1,2,12
+"Frankfort, IN",14.2,4,13
+"Frankfort, IL",2.2,1,8
+"Franklin Park, IL",12.7,4,16
+"Freeport, IL",20.3,5,13
+"Gages Lake, IL",5.7,2,12
+"Garden City, ID",11.4,3,11
+"Geneva, IL",2.4,2,9
+"Glen Carbon, IL",7.6,2,10
+"Godfrey, IL",6,5,12
+"Grayslake, IL",6.3,2,12
+"Greencastle, IN",13.1,3,10
+"Greenfield, IN",6.5,2,10
+"Greensburg, IN",11.4,5,13
+"Griffith, IN",8.2,9,19
+"Halawa, HI",7.8,3,14
+"Harvey, IL",28.5,7,20
+Hawaii,11.2,2,15
+"Hawaiian Paradise Park, HI",5.1,4,16
+"Hayden, ID",7.4,2,11
+"Hazel Crest, IL",18,5,16
+"Herrin, IL",14.1,6,13
+"Hickory Hills, IL",9.6,2,11
+"Highland, IL",8.9,2,10
+"Highland, IN",8.6,3,12
+"Hinsdale, IL",1.6,2,10
+"Homer Glen, IL",3.4,1,8
+"Homewood, IL",8.8,6,18
+"Huntington, IN",17,3,11
+Idaho,11,3,13
+Illinois,12.1,4,10
+Indiana,12.2,6,12
+"Jacksonville, IL",17.9,4,11
+"Jasper, IN",12.4,4,12
+"Jerome, ID",18.2,6,16
+"Justice, IL",23.6,3,13
+"Kailua, HI",9.8,4,16
+"Kapaa, HI",7.4,3,16
+"Kapolei, HI",6.1,2,15
+"Kewanee, IL",20.9,4,11
+"Kihei, HI",8.4,3,16
+"Kuna, ID",7.1,3,12
+"La Grange Park, IL",5.6,4,16
+"La Grange, IL",3.7,3,13
+"La Porte, IN",18,4,12
+"Lahaina, HI",11.8,3,16
+"Lake Forest, IL",3.1,2,10
+"Lake Station, IN",18.1,9,19
+"Lake Zurich, IL",3.8,1,9
+"Lebanon, IN",10.1,2,10
+"Lemont, IL",4.6,2,10
+"Libertyville, IL",2.8,2,12
+"Lincoln, IL",14.1,3,11
+"Lincolnwood, IL",5.9,3,12
+"Lindenhurst, IL",4.5,2,12
+"Lisle, IL",6,2,11
+"Logansport, IN",17.3,4,12
+"Loves Park, IL",13.1,3,11
+"Lyons, IL",8.6,3,13
+"Machesney Park, IL",10.7,3,11
+"Macomb, IL",26.7,4,11
+"Madison, IN",18.2,5,13
+"Maili, HI",15.2,4,18
+"Makakilo, HI",6.6,2,15
+"Marion, IL",17.5,6,13
+"Markham, IL",21,5,17
+"Martinsville, IN",11.7,3,10
+"Matteson, IL",12.8,5,18
+"Mattoon, IL",22.5,5,13
+"Maywood, IL",14.7,4,16
+"Midlothian, IL",11.9,4,15
+"Mililani Mauka, HI",2.8,3,13
+"Minooka, IL",3.1,2,11
+"Mokena, IL",4.9,1,8
+"Montgomery, IL",9.7,3,12
+"Morris, IL",8.4,2,11
+"Morton Grove, IL",7.4,3,12
+"Morton, IL",5.7,3,10
+"Mount Vernon, IL",21,4,12
+"Mountain Home, ID",15.2,6,16
+"Munster, IN",6.1,3,12
+"Nanakuli, HI",14.4,4,18
+"New Castle, IN",19,4,13
+"New Haven, IN",7.9,3,12
+"Norridge, IL",3.1,4,16
+"North Aurora, IL",6.4,3,12
+"Northlake, IL",12.1,4,16
+"Ocean Pointe, HI",4.4,2,15
+"Ottawa, IL",15.6,4,13
+"Palos Heights, IL",6.7,3,12
+"Palos Hills, IL",10,2,10
+"Park Forest, IL",15,5,17
+"Peru, IN",22.9,5,13
+"Plano, IL",8.4,2,11
+"Plymouth, IN",18.6,4,13
+"Pontiac, IL",14.7,5,12
+"Prospect Heights, IL",8.6,2,12
+"Rantoul, IL",19.3,4,14
+"Richton Park, IL",10.9,5,18
+"River Forest, IL",1.1,4,16
+"River Grove, IL",10.9,4,16
+"Riverdale, IL",30.1,7,20
+"Rolling Meadows, IL",6.3,3,12
+"Roscoe, IL",3.5,3,11
+"Roselle, IL",3.4,3,13
+"Round Lake, IL",8.6,2,11
+"Royal Kunia, HI",5,3,13
+"Sauk Village, IL",27.6,5,18
+"Schiller Park, IL",11,4,16
+"Schofield Barracks, HI",8.5,4,18
+"Seymour, IN",19.1,4,12
+"Shelbyville, IN",12.9,2,10
+"Shiloh, IL",9.4,4,12
+"Shorewood, IL",3,6,17
+"South Elgin, IL",6,2,10
+"South Holland, IL",13.6,8,21
+"Speedway, IN",13.7,8,20
+"St. John, IN",2.4,2,10
+"Sterling, IL",15.2,4,12
+"Streator, IL",22.1,4,13
+"Summit, IL",13.8,3,13
+"Swansea, IL",7.3,4,12
+"Sycamore, IL",9.5,3,13
+"Taylorville, IL",14.3,3,11
+"Troy, IL",6.7,2,10
+US,12.8,5,14
+"Villa Park, IL",5.8,2,10
+"Vincennes, IN",23.7,4,12
+"Wabash, IN",14.8,5,13
+"Wahiawa, HI",17.3,3,13
+"Waianae, HI",21.2,4,18
+"Wailuku, HI",6.6,3,16
+"Waimalu, HI",6.4,3,14
+"Waimea, HI",9.6,4,16
+"Waipio, HI",4.6,3,13
+"Warrenville, IL",8.1,2,13
+"Warsaw, IN",14.2,4,13
+"Washington, IL",4.9,3,10
+"Washington, IN",15.9,4,12
+"Waterloo, IL",2.8,4,12
+"Wauconda, IL",4.1,1,9
+"Westchester, IL",3.3,4,16
+"Western Springs, IL",2.3,3,13
+"Westmont, IL",11.4,2,10
+"Winnetka, IL",2.1,1,8
+"Wood Dale, IL",5.2,3,14
+"Wood River, IL",16.4,5,12
+"Worth, IL",16,3,13
+"Yorktown, IN",5.4,4,12
+"Yorkville, IL",2.7,2,11
+"Zion, IL",14.9,7,20
+"Abbeville, LA",30.6,8,15
+"Aberdeen, MD",15.8,3,13
+"Accokeek, MD",2.6,3,16
+"Adelphi, MD",17.5,7,24
+"Altoona, IA",6.1,2,10
+"Andover, KS",4.1,3,12
+"Annapolis Neck, MD",2.4,2,10
+"Arbutus, MD",9.6,4,15
+"Arkansas City, KS",13.7,4,12
+"Arnold, MD",3.7,2,9
+"Ashland, KY",23,5,11
+"Atchison, KS",16.2,3,12
+"Auburn, ME",11.1,4,11
+"Augusta, ME",19.3,4,12
+"Baker, LA",14.9,7,18
+"Ballenger Creek, MD",11,3,13
+"Bardstown, KY",12.7,4,12
+"Bastrop, LA",44,10,16
+"Bayou Blue, LA",13.6,6,14
+"Bayou Cane, LA",19.1,5,14
+"Bel Air, MD",17.2,2,8
+"Belle Chasse, LA",14.3,6,15
+"Beltsville, MD",8.6,4,20
+"Bensville, MD",7.1,4,17
+"Berea, KY",17.7,5,14
+"Biddeford, ME",13.3,2,9
+"Bogalusa, LA",32.3,8,16
+"Boone, IA",6.9,3,12
+"Brock Hall, MD",1.9,2,17
+"Brooklyn Park, MD",9.6,3,13
+"Broussard, LA",16.9,4,12
+"Brunswick, ME",9.5,2,9
+"Burlington, KY",7.3,2,11
+"Burlington, IA",18,4,12
+"California, MD",8.7,3,12
+"Calverton, MD",9.7,4,19
+"Cambridge, MD",23.3,4,12
+"Camp Springs, MD",3.6,5,21
+"Campbellsville, KY",21.5,6,14
+"Chalmette, LA",24.3,6,15
+"Claiborne, LA",10.4,8,16
+"Clarksburg, MD",4.1,2,11
+"Clive, IA",3.2,2,10
+"Cloverly, MD",2.6,3,18
+"Cockeysville, MD",10.2,3,14
+"Colesville, MD",6.6,3,18
+"Coralville, IA",9.6,3,13
+"Covington, LA",17.6,2,10
+"Crowley, LA",42.3,8,15
+"Cumberland, MD",19.9,4,11
+"Damascus, MD",4.7,1,10
+"Danville, KY",17.6,5,12
+"DeRidder, LA",19,4,12
+"Derby, KS",7,5,13
+"Destrehan, LA",9.7,5,15
+"East Riverdale, MD",15.2,6,23
+"Easton, MD",9.8,4,12
+"El Dorado, KS",17.2,3,12
+"Elkridge, MD",7.3,2,14
+"Elkton, MD",21.2,3,11
+"Emporia, KS",17.8,5,13
+"Erlanger, KY",10.6,4,11
+"Estelle, LA",18.5,6,15
+"Eunice, LA",33.8,11,17
+"Fairfield, IA",16.5,4,12
+"Ferndale, MD",8.3,3,13
+"Forestville, MD",11.3,7,23
+"Fort Campbell North, KY",9.8,6,15
+"Fort Dodge, IA",18.3,4,12
+"Fort Madison, IA",14.9,4,12
+"Fort Meade, MD",5.9,2,13
+"Fort Thomas, KY",5.9,4,11
+"Fort Washington, MD",6.4,4,19
+"Friendly, MD",7.3,3,16
+"Gardere, LA",29.7,3,14
+"Gardner, KS",5.9,2,12
+"Glasgow, KY",27.3,7,14
+"Glassmanor, MD",13.7,6,22
+"Glenmont, MD",7.1,4,16
+"Glenn Dale, MD",3.2,3,18
+"Gonzales, LA",11.2,4,13
+"Great Bend, KS",17,4,12
+"Greenbelt, MD",16,5,21
+"Gretna, LA",23.2,8,19
+"Grimes, IA",6.8,2,10
+"Halfway, MD",11,4,12
+"Hammond, LA",37,8,16
+"Harvey, LA",23.3,8,19
+"Havre de Grace, MD",10.2,3,13
+"Hays, KS",17.6,4,12
+"Haysville, KS",11,5,13
+"Hillcrest Heights, MD",10.8,6,22
+"Hyattsville, MD",9.2,6,23
+"Indianola, IA",9.3,3,11
+Iowa,11.1,3,10
+"Jefferson, LA",12.6,5,15
+"Johnston, IA",9.8,2,10
+"Joppatowne, MD",6.5,3,13
+"Junction City, KS",16.5,5,15
+Kansas,11.7,4,16
+"Kemp Mill, MD",4.8,4,17
+Kentucky,16.5,5,16
+"Keokuk, IA",20.4,4,12
+"Kettering, MD",6.9,2,17
+"Lake Shore, MD",3.7,2,9
+"Landover, MD",18.5,7,23
+"Langley Park, MD",24.5,7,24
+"Lanham, MD",6.1,2,17
+"Lansing, KS",1,3,12
+"Largo, MD",9.8,2,17
+"Lawrenceburg, KY",14.3,4,13
+"Lexington Park, MD",13.4,3,12
+"Liberal, KS",13.9,8,18
+"Linthicum, MD",4.7,2,13
+Louisiana,19.6,8,20
+"Luling, LA",12.5,5,15
+"Lyndon, KY",8.1,2,10
+"Madisonville, KY",22.6,5,13
+Maine,11.5,1,11
+"Mandeville, LA",7.6,2,10
+Maryland,10.3,5,16
+"Maryland City, MD",12,2,13
+"Mays Chapel, MD",2.4,3,14
+"McPherson, KS",11.9,4,12
+"Merriam, KS",7.9,2,11
+"Minden, LA",31.5,6,15
+"Mitchellville, MD",3.3,2,17
+"Morgan City, LA",21.8,8,16
+"Moss Bluff, LA",6.6,4,12
+"Mount Washington, KY",7.2,2,10
+"Murray, KY",22.8,5,13
+"Muscatine, IA",15.7,4,12
+"Natchitoches, LA",37.4,10,16
+"New Carrollton, MD",7,6,23
+"Newport, KY",23.2,4,11
+"Newton, IA",12.4,3,11
+"Newton, KS",10.7,2,11
+"North Laurel, MD",3.9,2,14
+"North Liberty, IA",4.5,3,13
+"North Potomac, MD",4.5,3,14
+"Norwalk, IA",4,3,11
+"Ocean Pines, MD",4.7,5,14
+"Opelousas, LA",37.2,11,17
+"Oskaloosa, IA",19,4,12
+"Ottawa, KS",11.4,3,11
+"Ottumwa, IA",16,4,12
+"Overlea, MD",7.2,3,13
+"Oxon Hill, MD",8.7,6,22
+"Paducah, KY",22.7,5,13
+"Parole, MD",5.1,2,10
+"Pella, IA",2.8,3,11
+"Pineville, LA",15.4,7,16
+"Pittsburg, KS",29.2,5,13
+"Prairie Village, KS",4.4,2,11
+"Raceland, LA",15.8,6,13
+"Radcliff, KY",18.2,4,13
+"Redland, MD",4.7,2,14
+"River Ridge, LA",8.5,5,15
+"Riviera Beach, MD",5.5,3,13
+"Rosaryville, MD",4.7,3,16
+"Rosedale, MD",7.5,3,14
+"Rossville, MD",8.2,3,14
+"Ruston, LA",35.6,10,16
+"Saco, ME",9.3,2,9
+"Sanford, ME",9.5,2,9
+"Seabrook, MD",11.5,4,20
+"Shelbyville, KY",9.9,4,11
+"Shenandoah, LA",7.8,3,14
+"Shepherdsville, KY",18.7,2,10
+"Shively, KY",18.2,11,20
+"Somerset, KY",30.6,7,14
+"Spencer, IA",14.5,3,11
+"St. Matthews, KY",8,3,11
+"Storm Lake, IA",11.2,5,13
+"Suitland, MD",10.1,6,23
+"Sulphur, LA",14.6,4,12
+"Summerfield, MD",10.7,7,23
+"Takoma Park, MD",7.9,4,18
+"Terrytown, LA",18.2,8,19
+"Thibodaux, LA",18.2,6,13
+"Timonium, MD",3.4,3,14
+"Travilah, MD",1.6,2,12
+US,12.8,5,14
+"Urbana, MD",1.7,2,9
+"Waggaman, LA",28.9,8,19
+"Walker Mill, MD",6.7,7,23
+"Waterville, ME",23.1,4,12
+"Waukee, IA",4.8,2,10
+"Waverly, IA",10.4,3,11
+"West Monroe, LA",28.9,8,16
+"Westbrook, ME",10.3,3,12
+"Westminster, MD",12.2,2,9
+"White Oak, MD",13.8,3,18
+"Winchester, KY",19.6,4,12
+"Winfield, KS",19.1,5,13
+"Woodmere, LA",18.5,6,15
+"Youngsville, LA",5.9,4,12
+"Zachary, LA",5.9,7,18
+"Abington, MA",6,2,10
+"Adrian, MI",26,4,12
+"Affton, MO",6.5,2,10
+"Albert Lea, MN",13.2,4,12
+"Alexandria, MN",12.4,3,11
+"Allendale, MI",30.6,1,10
+"Alpena, MI",18.4,4,11
+"Amesbury Town, MA",5.8,2,8
+"Anoka, MN",8.3,2,9
+"Arden Hills, MN",6.9,2,10
+"Arnold, MO",8.4,2,10
+"Auburn Hills, MI",11.2,6,16
+"Bay St. Louis, MS",22.2,5,13
+"Beatrice, NE",20.8,4,11
+"Bellefontaine Neighbors, MO",19.5,9,21
+"Belton, MO",7.9,3,11
+"Bemidji, MN",24.8,4,12
+"Berkley, MI",4.3,3,12
+"Beverly Hills, MI",1.9,1,9
+"Big Lake, MN",2.1,2,10
+"Big Rapids, MI",39.6,4,12
+"Birmingham, MI",4.5,1,9
+"Bolivar, MO",20.5,5,13
+"Brainerd, MN",18,3,11
+"Brandon, MS",4.8,3,12
+"Branson, MO",22.4,5,14
+"Bridgeton, MO",9.3,3,14
+"Brookhaven, MS",26.4,11,17
+"Buffalo, MN",6.7,2,9
+"Byram, MS",5,5,18
+"Cadillac, MI",20.4,4,11
+"Canton, MS",30.9,6,15
+"Carthage, MO",34.8,4,12
+"Chalco, NE",5.5,2,11
+"Champlin, MN",6.8,1,8
+"Clarksdale, MS",41.6,12,19
+"Clawson, MI",7.5,3,12
+"Clayton, MO",6.9,2,10
+"Cleveland, MS",29.8,15,20
+"Cloquet, MN",15.5,3,11
+"Coldwater, MI",15,4,13
+"Columbia Heights, MN",11.1,3,12
+"Columbus, MS",26.9,10,17
+"Columbus, NE",7.9,4,13
+"Comstock Park, MI",9.4,2,10
+"Concord, MO",3.7,2,9
+"Corinth, MS",20.7,8,15
+"Crestwood, MO",6,2,10
+"Creve Coeur, MO",5.4,2,10
+"Crystal, MN",6.5,3,14
+"Cutlerville, MI",12.7,3,13
+"D'Iberville, MS",21.4,6,15
+"Dardenne Prairie, MO",1.8,1,9
+"East Bethel, MN",2,2,9
+"East Grand Rapids, MI",1.6,2,11
+"Easthampton Town, MA",7.2,2,9
+"Elk River, MN",3.9,2,10
+"Escanaba, MI",17.3,4,12
+"Eureka, MO",3,2,8
+"Excelsior Springs, MO",10.7,2,10
+"Fairmont, MN",14.4,4,13
+"Faribault, MN",17.4,3,12
+"Farmington, MI",4.5,4,16
+"Farmington, MN",3.1,2,9
+"Farmington, MO",16.8,4,13
+"Fenton, MI",9.7,3,10
+"Fergus Falls, MN",11,3,11
+"Ferguson, MO",26.4,6,18
+"Ferndale, MI",8.9,3,12
+"Festus, MO",12.1,2,10
+"Forest Lake, MN",4.6,2,9
+"Fort Leonard Wood, MO",5.7,4,13
+"Fraser, MI",10.9,4,13
+"Fulton, MO",14.4,4,11
+"Gardner, MA",14.1,4,13
+"Gautier, MS",17.9,5,14
+"Golden Valley, MN",6.3,3,14
+"Grain Valley, MO",5.6,3,11
+"Grand Haven, MI",12.1,2,11
+"Grand Rapids, MN",14.1,3,11
+"Grandville, MI",6.2,3,13
+"Greenwood, MS",30,13,18
+"Grenada, MS",30.2,13,18
+"Grosse Pointe Park, MI",4.3,7,16
+"Grosse Pointe Woods, MI",5.1,7,16
+"Ham Lake, MN",2.1,2,9
+"Hamtramck, MI",43.1,7,16
+"Hannibal, MO",21.4,5,13
+"Harper Woods, MI",21.6,7,16
+"Harrisonville, MO",10.7,3,11
+"Haslett, MI",7.3,2,12
+"Hastings, MN",5.5,2,9
+"Hastings, NE",15.1,4,12
+"Hazel Park, MI",18.3,3,12
+"Hernando, MS",7.5,3,14
+"Hibbing, MN",12.2,3,10
+"Highland Park, MI",40.7,7,16
+"Holbrook, MA",7,3,12
+"Hopkins, MN",11.8,3,11
+"Hudson, MA",7.2,1,9
+"Hugo, MN",2.2,2,9
+"Hull, MA",4.2,2,9
+"Hutchinson, MN",9.2,4,12
+"Inkster, MI",37.8,6,15
+"Ionia, MI",16.1,4,12
+"Jackson, MO",7.4,5,13
+"Jenison, MI",6.2,1,10
+"Jennings, MO",29.2,9,21
+"Kalispell, MT",10.5,3,12
+"Kearney, MO",2.8,2,10
+"Kennett, MO",18.8,8,16
+"Kirksville, MO",28.7,5,13
+"La Vista, NE",6.1,2,11
+"Lake St. Louis, MO",3,2,9
+"Laurel, MS",33.8,8,16
+"Lebanon, MO",21,5,13
+"Lemay, MO",14.1,2,10
+"Lexington, NE",15.4,4,14
+"Lino Lakes, MN",1.9,2,9
+"Little Canada, MN",10.4,3,12
+"Long Beach, MS",9.3,6,15
+"Longmeadow, MA",2.7,3,11
+"Lynnfield, MA",3.3,2,10
+"Manchester, MO",7,1,9
+"Marblehead, MA",2.8,3,10
+"Marquette, MI",26.4,4,11
+"Marshall, MN",16.8,4,12
+"Marshall, MO",15,4,13
+"Maryville, MO",30.5,4,12
+Massachusetts,10.4,4,10
+"Maynard, MA",5.5,1,9
+"McComb, MS",35.5,11,17
+"Melvindale, MI",28,5,13
+"Mendota Heights, MN",3.9,2,11
+"Mexico, MO",16.5,4,11
+Michigan,13.1,5,13
+Minnesota,9.3,2,8
+Mississippi,19.4,11,21
+Missouri,12.7,7,12
+"Moberly, MO",21.5,4,13
+"Monroe, MI",17,3,10
+Montana,11.9,3,12
+"Monticello, MN",9.4,2,9
+"Moss Point, MS",21.1,5,14
+"Mounds View, MN",10.9,2,10
+"Mount Clemens, MI",19.1,4,13
+"Muskegon Heights, MI",33.7,4,12
+"Natchez, MS",33.2,11,17
+Nebraska,10.8,3,14
+"Neosho, MO",22.4,4,12
+"New Baltimore, MI",6.3,2,10
+"New Brighton, MN",10.6,2,10
+"New Hope, MN",9,3,14
+"New Ulm, MN",8.7,4,12
+"Newburyport, MA",5.8,3,10
+"Niles, MI",22.2,5,12
+"Nixa, MO",7.4,3,11
+"Norfolk, NE",12.9,4,13
+"North Adams, MA",14.2,3,10
+"North Branch, MN",9.1,2,10
+"North Mankato, MN",8.2,3,13
+"North Platte, NE",13.5,4,14
+"North St. Paul, MN",9.4,3,12
+"Northfield, MN",8.3,3,12
+"Northview, MI",9,2,10
+"Norton Shores, MI",8.2,4,12
+"Ocean Springs, MS",7.3,5,14
+"Okemos, MI",14.7,2,12
+"Old Jamestown, MO",6.7,9,21
+"Otsego, MN",0.9,2,9
+"Overland, MO",11.2,7,19
+"Owosso, MI",13.4,3,10
+"Ozark, MO",12.3,3,11
+"Palmer Town, MA",9.6,2,9
+"Papillion, NE",4.8,2,11
+"Pascagoula, MS",24.5,5,14
+"Petal, MS",17,6,15
+"Picayune, MS",26.5,5,13
+"Poplar Bluff, MO",27,6,14
+"Raymore, MO",6.3,3,11
+"Red Wing, MN",11.5,3,12
+"Republic, MO",13.4,3,11
+"Ridgeland, MS",6.9,6,17
+"Riverview, MI",8.1,3,10
+"Robbinsdale, MN",10.2,3,14
+"Rochester, MI",5.9,1,10
+"Rogers, MN",1.9,1,8
+"Rolla, MO",23.2,5,13
+"Romulus, MI",12.7,5,14
+"Rosemount, MN",1.7,2,9
+"Sartell, MN",6,3,11
+"Sauk Rapids, MN",7.9,2,10
+"Sault Ste. Marie, MI",22,4,12
+"Scottsbluff, NE",15.4,4,13
+"Sedalia, MO",18,4,13
+"Sikeston, MO",20.7,6,14
+"Somerset, MA",4.6,7,15
+"South Lyon, MI",5,2,9
+"South Sioux City, NE",11.5,4,13
+"South St. Paul, MN",10.5,2,11
+"South Yarmouth, MA",5.9,2,9
+"Southbridge Town, MA",20.2,3,10
+"Spanish Lake, MO",19,9,21
+"St. Ann, MO",12,7,19
+"St. Michael, MN",3.3,2,9
+"St. Peter, MN",16.4,3,13
+"Stillwater, MN",5.4,2,9
+"Stoneham, MA",5.5,2,10
+"Sturgis, MI",20.6,4,13
+"Swampscott, MA",5,6,17
+"Town and Country, MO",4.3,2,9
+"Traverse City, MI",9.8,2,11
+"Trenton, MI",6.5,3,10
+"Troy, MO",10.8,4,11
+"Union, MO",8.3,3,10
+US,12.8,5,14
+"Vadnais Heights, MN",6.5,2,10
+"Vicksburg, MS",27.8,8,17
+"Waconia, MN",3.9,2,9
+"Walker, MI",7.7,3,13
+"Warrensburg, MO",19.2,3,12
+"Washington, MO",5.9,3,10
+"Waverly, MI",7.9,2,10
+"Wayne, MI",19.8,6,15
+"Webb City, MO",18.8,4,12
+"Webster, MA",15.5,3,10
+"Webster Groves, MO",3.2,2,10
+"West Plains, MO",34,6,13
+"West Point, MS",31.5,10,17
+"West St. Paul, MN",12.1,2,11
+"Willmar, MN",16.5,4,12
+"Wilmington, MA",2.2,1,9
+"Winchester, MA",2.9,2,10
+"Winthrop Town, MA",8.3,6,18
+"Wixom, MI",7.8,2,11
+"Woodhaven, MI",6.3,3,10
+"Worthington, MN",15,4,13
+"Yazoo City, MS",39.1,6,15
+"Ypsilanti, MI",28.9,4,15
+"Agawam Town, MA",7,5,12
+"Allen Park, MI",8.6,5,13
+"Andover, MN",3,2,9
+"Annapolis, MD",9.2,2,10
+"Apple Valley, MN",4.7,3,12
+"Arlington, MA",4.6,2,10
+"Aspen Hill, MD",7.9,4,16
+"Attleboro, MA",9.1,2,10
+"Austin, MN",15.6,4,12
+"Bangor, ME",16.1,3,11
+"Barnstable Town, MA",7.9,2,9
+"Battle Creek, MI",22,4,11
+"Bay City, MI",23.6,3,11
+"Bel Air North, MD",3.1,2,8
+"Bel Air South, MD",3.5,2,10
+"Belmont, MA",4.9,2,10
+"Bethesda, MD",3.8,1,10
+"Beverly, MA",10,3,10
+"Blaine, MN",5.6,2,9
+"Bowie, MD",3.3,2,17
+"Braintree Town, MA",4.2,2,9
+"Brookline, MA",10.2,1,10
+"Brooklyn Center, MN",12.2,3,14
+"Burlington, MA",5,2,11
+"Burnsville, MN",6.9,3,12
+"Burton, MI",16.2,5,14
+"Carney, MD",9.5,3,13
+"Catonsville, MD",7.2,4,15
+"Chanhassen, MN",3.1,2,9
+"Chaska, MN",4.5,2,9
+"Chelsea, MA",22.5,6,18
+"Chicopee, MA",14.6,3,11
+"Chillum, MD",13.8,7,24
+"Clinton, MD",5.9,3,16
+"College Park, MD",25.3,6,24
+"Coon Rapids, MN",6.2,3,12
+"Cottage Grove, MN",3.1,1,9
+"Crofton, MD",2,2,13
+"Danvers, MA",5.8,2,10
+"Dearborn Heights, MI",20.2,4,14
+"Dedham, MA",4.6,3,12
+"Dundalk, MD",16,5,15
+"Eagan, MN",5.8,2,11
+"East Lansing, MI",35.5,2,11
+"Eastpointe, MI",17.1,4,13
+"Eden Prairie, MN",5,2,9
+"Edgewood, MD",9.7,3,13
+"Edina, MN",4.3,3,11
+"Eldersburg, MD",3.1,2,9
+"Ellicott City, MD",4.6,2,12
+"Essex, MD",12,5,14
+"Everett, MA",12.8,4,16
+"Fairland, MD",11.5,3,18
+"Fitchburg, MA",14.6,4,13
+"Forest Hills, MI",1.9,2,11
+"Framingham, MA",10.5,3,13
+"Franklin Town, MA",5.5,2,9
+"Frederick, MD",10.1,3,13
+"Fridley, MN",11,3,12
+"Gaithersburg, MD",10.9,3,15
+"Garden City, MI",11,6,15
+"Glen Burnie, MD",7.2,2,12
+"Gloucester, MA",9.3,3,10
+"Hagerstown, MD",25.5,4,12
+"Haverhill, MA",10.8,6,17
+"Holland, MI",10.9,3,11
+"Holt, MI",10.1,2,12
+"Holyoke, MA",26.5,5,12
+"Ilchester, MD",3.5,2,14
+"Inver Grove Heights, MN",5.7,2,11
+"Jackson, MI",23.8,4,11
+"Kentwood, MI",10,2,11
+"Lakeville, MN",3.9,2,9
+"Laurel, MD",9.8,4,20
+"Leominster, MA",7.9,4,13
+"Lewiston, ME",16.3,4,11
+"Lexington, MA",3.2,2,11
+"Lincoln Park, MI",20.9,5,13
+"Lochearn, MD",11.2,3,14
+"Madison Heights, MI",11.7,3,12
+Maine,11.5,1,11
+"Malden, MA",14.7,3,15
+"Mankato, MN",22.3,3,13
+"Maple Grove, MN",4.6,2,12
+"Maplewood, MN",10.3,3,12
+"Marlborough, MA",8.3,3,13
+Maryland,10.3,5,16
+Massachusetts,10.4,4,10
+"Medford, MA",7.6,3,15
+"Melrose, MA",3.4,2,10
+"Methuen Town, MA",9.7,6,17
+Michigan,13.1,5,13
+"Middle River, MD",14.4,3,13
+"Midland, MI",10.5,3,11
+"Milford, MA",10.4,2,9
+"Milford Mill, MD",9.5,4,19
+"Milton, MA",5.5,3,13
+Minnesota,9.3,2,8
+"Minnetonka, MN",4.5,2,9
+"Montgomery Village, MD",11.2,4,17
+"Moorhead, MN",17.9,3,12
+"Mount Pleasant, MI",34.1,5,13
+"Muskegon, MI",22.5,4,12
+"Needham, MA",2.3,1,7
+"North Bethesda, MD",6.6,1,10
+"Northampton, MA",11.4,2,9
+"Norwood, MA",7.5,3,12
+"Novi, MI",4,2,11
+"Oak Park, MI",13,3,12
+"Oakdale, MN",6.2,2,9
+"Odenton, MD",4.4,2,13
+"Olney, MD",3.2,1,10
+"Owatonna, MN",8.8,4,12
+"Owings Mills, MD",6.1,4,19
+"Parkville, MD",8.1,3,13
+"Pasadena, MD",5.9,3,12
+"Peabody, MA",8.1,2,10
+"Perry Hall, MD",7.4,3,14
+"Pikesville, MD",8.3,3,12
+"Pittsfield, MA",12.7,3,10
+"Pontiac, MI",27.7,6,16
+"Port Huron, MI",22,3,10
+"Portage, MI",7.4,5,14
+"Portland, ME",12.7,3,12
+"Potomac, MD",3.7,1,11
+"Prior Lake, MN",2.2,2,10
+"Ramsey, MN",4,2,9
+"Randallstown, MD",7.7,3,14
+"Reading, MA",3,2,10
+"Reisterstown, MD",8.7,4,19
+"Revere, MA",13,6,18
+"Richfield, MN",7.3,3,12
+"Rochester Hills, MI",4.3,1,10
+"Rockville, MD",7,3,14
+"Roseville, MI",13.5,4,13
+"Roseville, MN",7,3,12
+"Royal Oak, MI",6.3,3,12
+"Saginaw, MI",35.6,5,13
+"Salem, MA",14.9,3,10
+"Salisbury, MD",24.8,5,14
+"Saugus, MA",7.8,2,10
+"Savage, MN",5.8,2,10
+"Severn, MD",6.4,2,13
+"Severna Park, MD",2.9,2,9
+"Shakopee, MN",5.4,2,10
+"Shoreview, MN",4.2,2,10
+"South Laurel, MD",9.9,4,20
+"South Portland, ME",6,3,12
+"Southfield, MI",11.1,4,16
+"Southgate, MI",10.7,3,10
+"St. Clair Shores, MI",7.6,4,13
+"St. Cloud, MN",22,3,11
+"St. Louis Park, MN",6.5,3,11
+"Taunton, MA",13.5,3,11
+"Taylor, MI",15,5,14
+"Towson, MD",11.3,3,13
+US,12.8,5,14
+"Wakefield, MA",5.1,2,10
+"Waltham, MA",8.8,2,11
+"Watertown Town, MA",7.2,2,10
+"Wellesley, MA",4.9,1,7
+"West Springfield Town, MA",9.7,5,12
+"Westfield, MA",6.9,5,12
+"Weymouth Town, MA",6,2,9
+"Wheaton, MD",10.5,4,16
+"White Bear Lake, MN",5.9,2,10
+"Winona, MN",19.2,3,11
+"Woburn, MA",6.4,2,10
+"Woodbury, MN",4.2,1,9
+"Woodlawn, MD",12,4,14
+"Wyandotte, MI",16,5,13
+"Alamogordo, NM",18.6,8,15
+"Apex, NC",3.3,1,11
+"Asheboro, NC",23.1,5,13
+"Atlantic City, NJ",37,7,15
+"Auburn, NY",20.2,3,11
+"Ballwin, MO",5.7,1,9
+"Bay Shore, NY",6.8,2,10
+"Bayonne, NJ",11.1,4,19
+"Bellevue, NE",8.7,2,11
+"Bergenfield, NJ",5.8,2,12
+"Biloxi, MS",14.9,6,15
+"Binghamton, NY",32,5,13
+"Bismarck, ND",8.7,3,11
+"Blue Springs, MO",5.6,3,11
+"Bozeman, MT",14.9,3,13
+"Brentwood, NY",7.3,5,19
+"Brighton, NY",8.6,2,10
+"Burlington, NC",17.2,6,15
+"Butte, MT",15.7,4,12
+"Camden, NJ",33.6,11,20
+"Cape Girardeau, MO",22.1,5,13
+"Carlsbad, NM",15.5,8,16
+"Carson City, NV",10,3,13
+"Centereach, NY",6.3,2,10
+"Central Islip, NY",9.4,5,19
+"Chapel Hill, NC",19.6,3,12
+"Cheektowaga, NY",9.6,3,12
+"Chesterfield, MO",3.9,2,10
+"Cliffside Park, NJ",10.5,3,15
+"Clinton, MS",9,6,18
+"Clovis, NM",20.6,9,16
+"Commack, NY",1.8,1,7
+"Concord, NH",9.3,2,12
+"Coram, NY",8.9,2,12
+"Cornelius, NC",6.6,2,13
+"Deer Park, NY",6.3,4,15
+"Dix Hills, NY",4.9,1,8
+"Dover, NH",8,2,10
+"East Meadow, NY",4.4,1,9
+"East Orange, NJ",18,9,25
+"Elmira, NY",25.5,4,12
+"Elmont, NY",4.9,2,12
+"Englewood, NJ",12,3,16
+"Fair Lawn, NJ",5.8,4,16
+"Farmington, NM",19.9,3,14
+"Florissant, MO",10.7,5,18
+"Fort Lee, NJ",9.4,3,15
+"Franklin Square, NY",4.9,2,12
+"Freeport, NY",6.9,7,22
+"Fremont, NE",12,3,11
+"Fuquay-Varina, NC",11.6,3,13
+"Garfield, NJ",14.7,4,16
+"Garner, NC",8.4,3,13
+"Gladstone, MO",10.3,3,13
+"Glen Cove, NY",13.8,3,10
+"Goldsboro, NC",24.1,7,17
+"Grand Forks, ND",17.9,3,13
+"Grand Island, NE",12.7,5,14
+"Grandview, MO",13.9,6,16
+"Great Falls, MT",14.5,4,12
+"Greenville, MS",32.4,15,20
+"Gulfport, MS",25.6,6,15
+"Hackensack, NJ",12.4,4,17
+"Harrison, NY",4,2,13
+"Hattiesburg, MS",32,6,15
+"Hazelwood, MO",14.6,5,18
+"Helena, MT",9.4,4,12
+"Hempstead, NY",17.2,7,22
+"Hickory, NC",16.7,4,12
+"Hicksville, NY",4.1,1,9
+"Hobbs, NM",18,8,16
+"Hoboken, NJ",6.8,5,18
+"Holbrook, NY",3.9,2,10
+"Holly Springs, NC",4.1,2,11
+"Horn Lake, MS",14.6,3,14
+"Huntersville, NC",4.2,2,13
+"Huntington Station, NY",11.7,2,9
+"Indian Trail, NC",3.5,1,10
+"Irondequoit, NY",8.5,2,9
+"Ithaca, NY",34.5,3,12
+"Jacksonville, NC",16.3,4,16
+"Jamestown, NY",28.1,5,13
+"Jefferson City, MO",12.6,4,11
+"Joplin, MO",17.6,4,12
+"Kannapolis, NC",12.8,5,14
+"Kearney, NE",15.5,4,12
+"Kearny, NJ",10.2,4,19
+"Kirkwood, MO",5.5,2,10
+"Lakewood, NJ",27.7,3,13
+"Levittown, NY",5.2,1,9
+"Liberty, MO",7.7,2,10
+"Linden, NJ",7.7,4,17
+"Lindenhurst, NY",6.3,2,11
+"Long Beach, NY",5.1,3,12
+"Long Branch, NJ",21.4,4,15
+"Madison, MS",4.7,6,15
+"Maryland Heights, MO",6.1,2,10
+"Matthews, NC",4.6,3,15
+"Mehlville, MO",7.8,2,9
+"Meridian, MS",30.4,9,16
+"Middletown, NY",16.5,4,13
+"Millville, NJ",13.2,6,15
+"Minot, ND",11.7,4,13
+"Mint Hill, NC",7.9,3,16
+Mississippi,19.4,11,21
+"Missoula, MT",16,3,12
+Missouri,12.7,7,12
+"Monroe, NC",13.6,5,14
+Montana,11.9,3,12
+"Mooresville, NC",8.2,5,14
+"Morrisville, NC",4.1,1,12
+"Mount Vernon, NY",12.7,5,17
+Nebraska,10.8,3,14
+Nevada,14.1,6,18
+"New Bern, NC",19.1,6,15
+"New Brunswick, NJ",35.3,5,17
+"New City, NY",3.7,3,12
+New Hampshire,7.2,1,11
+New Jersey,10.2,4,16
+New Mexico,18.4,7,17
+New York,13.9,6,13
+"Newburgh, NY",21.4,5,15
+"Niagara Falls, NY",23.8,5,12
+North Carolina,13.4,3,14
+North Dakota,11.1,3,10
+"North Tonawanda, NY",10.8,5,12
+"Oakville, MO",6.3,2,8
+"Oceanside, NY",3.5,2,11
+"Olive Branch, MS",7.3,3,14
+"Ossining, NY",8.7,3,13
+"Oxford, MS",29.1,7,15
+"Pahrump, NV",14.4,5,14
+"Paramus, NJ",4.8,2,12
+"Passaic, NJ",25.3,8,22
+"Pearl, MS",10.2,3,12
+"Perth Amboy, NJ",20.8,5,19
+"Plainfield, NJ",17.1,5,16
+"Plainview, NY",3.4,1,9
+"Port Chester, NY",10.9,2,13
+"Poughkeepsie, NY",18.8,4,13
+"Princeton, NJ",5.9,2,12
+"Rahway, NJ",8.5,4,17
+"Raytown, MO",8.7,5,14
+"Ridgewood, NJ",2.6,1,8
+"Rochester, NH",9.3,2,10
+"Rocky Mount, NC",18.9,7,17
+"Rome, NY",17.4,5,12
+"Roswell, NM",23.3,8,15
+"Salisbury, NC",23.7,6,15
+"Sanford, NC",18.5,5,14
+"Saratoga Springs, NY",9.5,2,10
+"Sayreville, NJ",5.3,5,19
+"Schenectady, NY",21.3,4,12
+"Shirley, NY",7.7,3,12
+"Smithtown, NY",2.8,1,7
+"South Valley, NM",21.1,6,18
+"Southaven, MS",12.1,3,14
+"Spring Valley, NY",24.2,5,18
+"St. Charles, MO",6.3,2,10
+"St. Peters, MO",3.7,2,10
+"Starkville, MS",28.8,10,17
+"Statesville, NC",19.6,5,14
+"Summerlin South, NV",5.9,4,16
+"Thomasville, NC",19.9,6,14
+"Troy, NY",23.3,4,11
+"Tupelo, MS",14.1,7,15
+"Union City, NJ",20,5,18
+"Uniondale, NY",11.6,7,22
+US,12.8,5,14
+"University City, MO",13.8,4,14
+"Utica, NY",28,5,12
+"Valley Stream, NY",3.4,2,13
+"Vineland, NJ",12.6,6,15
+"Wake Forest, NC",3.3,3,14
+"Watertown, NY",20.8,4,14
+"Wentzville, MO",4.4,2,9
+"West Babylon, NY",5.5,2,11
+"West Fargo, ND",6.3,3,13
+"West Islip, NY",3.4,2,10
+"West New York, NJ",19.9,5,21
+"West Seneca, NY",6.7,3,12
+"Westfield, NJ",2,3,13
+"White Plains, NY",8.4,2,13
+"Whitney, NV",18.1,6,18
+"Wildwood, MO",3.5,2,10
+"Williston, ND",7.6,4,13
+"Wilson, NC",21.3,10,18
+"Winchester, NV",23.3,8,21
+"South Huntington, NY",4.9,1,8
+"North Bellport, NY",14.9,3,12
+"Hillsdale, NJ",3.8,1,8
+"Bound Brook, NJ",8,3,14
+"Lovington, NM",21.7,8,16
+"Elwood, NY",3.6,1,8
+"Totowa, NJ",4.2,2,13
+"North Lindenhurst, NY",6.7,4,15
+"Espanola, NM",19.9,7,13
+"Fredonia, NY",16,5,13
+"Robertsville, NJ",2.1,1,9
+"Lincoln Park, NJ",1.5,2,11
+"Dobbs Ferry, NY",3.7,2,13
+"Haverstraw, NY",14.8,3,12
+"Beachwood, NJ",4.8,3,10
+"Sleepy Hollow, NY",7.5,3,13
+"Manville, NJ",9.3,3,14
+"Glen Rock, NJ",1.5,1,8
+"Salisbury, NY",3.5,1,9
+"Terryville, NY",1.4,2,10
+"Lake Grove, NY",5.7,2,10
+"Ridgefield, NJ",4.3,3,15
+"Franklin Lakes, NJ",2.2,1,8
+"Miller Place, NY",4.2,1,8
+"River Edge, NJ",2.9,2,12
+"North Merrick, NY",3,1,7
+"Browns Mills, NJ",12.2,3,13
+"Mount Kisco, NY",7.6,1,9
+"Gloucester City, NJ",11.2,11,20
+"Upper Montclair, NJ",1.9,2,9
+"Mount Sinai, NY",2.6,1,8
+"Berlin, NH",13.9,3,12
+"Pompton Lakes, NJ",8.5,1,9
+"Martinsville, NJ",1.5,1,9
+"Monsey, NY",46.1,5,19
+"Florham Park, NJ",5.3,2,10
+"Ogdensburg, NY",18.4,4,13
+"Greentree, NJ",5,2,10
+"North Wantagh, NY",1.8,1,9
+"Little Ferry, NJ",5.6,2,14
+"Portales, NM",23.4,9,16
+"Haddonfield, NJ",2.2,2,10
+"Middle Island, NY",7.4,3,12
+"Fairmount, NY",5.8,2,10
+"Freehold, NJ",17.6,2,10
+"Ringwood, NJ",1.9,1,9
+"Short Hills, NJ",3,2,12
+"Kiryas Joel, NY",40.5,2,12
+"Wanaque, NJ",5.6,1,9
+"Hasbrouck Heights, NJ",8,2,14
+"Hamilton Square, NJ",2.6,3,13
+"Oakland, NJ",1.8,1,8
+"Mastic Beach, NY",18.8,3,12
+"Mastic, NY",11.6,3,12
+"Stony Point, NY",4.2,3,12
+"Chaparral, NM",29.2,8,17
+"East Islip, NY",2.1,2,10
+"Ventnor City, NJ",11.5,7,15
+"Somers Point, NJ",11.7,3,10
+"Westwood, NJ",4.8,1,8
+"Bellmawr, NJ",10.8,4,13
+"Babylon, NY",2.8,2,11
+"Suffern, NY",6.3,5,19
+"Oneonta, NY",18.4,3,11
+"North Bay Shore, NY",12.9,5,19
+"Roosevelt, NY",8.1,7,22
+"Londonderry, NH",3.4,2,9
+"Pine Hill, NJ",12.9,4,13
+"Stony Brook, NY",5.4,1,8
+"Tarrytown, NY",5.8,2,13
+"Somerville, NJ",4.4,3,14
+"Pennsville, NJ",11.5,7,15
+"Oneida, NY",12.4,3,11
+"Nesconset, NY",4.1,1,7
+"Guttenberg, NJ",14.8,5,21
+"New Providence, NJ",1,1,9
+"Gardnerville Ranchos, NV",5.8,3,13
+"Geneva, NY",18.6,3,10
+"Woodland Park, NJ",11.6,2,13
+"Spring Creek, NV",8.4,5,14
+"Greenlawn, NY",5.8,2,9
+"Massena, NY",21.2,4,13
+"Mercerville, NJ",2.5,3,13
+"Rocky Point, NY",4,1,8
+"Wallington, NJ",9.2,2,14
+"Farmingville, NY",2.9,2,11
+"Tenafly, NJ",4.1,1,9
+"Jericho, NY",6.4,2,10
+"Lancaster, NY",7.6,2,8
+"Ridgefield Park, NJ",10.3,3,15
+"St. James, NY",1.9,1,7
+"North New Hyde Park, NY",1.8,2,13
+"Fulton, NY",23.6,3,10
+"Artesia, NM",18.7,8,16
+"Manorville, NY",10.1,3,12
+"Bradley Gardens, NJ",2.4,3,14
+"Middlesex, NJ",7.7,2,14
+"Watervliet, NY",19.8,2,11
+"North Amityville, NY",8.2,4,15
+"Canandaigua, NY",8,3,10
+"Roselle Park, NJ",6.4,3,17
+"North Valley, NM",18.2,5,15
+"Hammonton, NJ",10.7,4,13
+"Westbury, NY",5.3,2,13
+"Corning, NY",16,4,12
+"West Freehold, NJ",3.4,2,10
+"South Farmingdale, NY",4.4,1,8
+"Echelon, NJ",12.6,2,10
+"Woodmere, NY",2.8,3,12
+"Moorestown-Lenola, NJ",5,2,10
+"Seaford, NY",1.8,1,7
+"Springdale, NJ",4.3,2,10
+"Somersworth, NH",10.9,2,10
+"Endwell, NY",12,5,13
+"Riverhead, NY",12.7,2,10
+"Avenel, NJ",11.6,3,15
+"Claremont, NH",16.7,3,12
+"Fairview, NJ",14.9,3,15
+"Jefferson Valley-Yorktown, NY",4.9,1,9
+"Fords, NJ",4.2,2,15
+"Ocean City, NJ",8.8,3,10
+"Red Bank, NJ",13.4,2,9
+"Beacon, NY",9.2,4,13
+"Eatontown, NJ",8.2,4,15
+"Dunkirk, NY",26.7,5,13
+"Metuchen, NJ",3.4,2,15
+"Cherry Hill Mall, NJ",8.2,2,10
+"Bellmore, NY",3.1,1,7
+"Deming, NM",27.9,8,14
+"Las Vegas, NM",30.3,9,13
+"Sayville, NY",5.7,2,10
+"Rye, NY",4.4,2,13
+"Patchogue, NY",7.7,2,12
+"Sunland Park, NM",29.1,8,18
+"Ramsey, NJ",1.4,1,8
+"Ridge, NY",7.4,2,9
+"Dover, NJ",12.4,2,11
+"Los Alamos, NM",4.7,9,13
+"Hopatcong, NJ",4.4,2,9
+"Scarsdale, NY",2.4,2,13
+"Madison, NJ",3.3,2,10
+"Williamstown, NJ",6.1,2,10
+"Franklin Park, NJ",7.7,2,13
+"Endicott, NY",26.7,5,13
+"Pearl River, NY",5.4,2,11
+"North Valley Stream, NY",4.5,2,13
+"Princeton Meadows, NJ",3.6,2,14
+"North Babylon, NY",4.3,2,11
+"Floral Park, NY",2.5,2,12
+"Port Washington, NY",5.4,2,10
+"Los Lunas, NM",10.3,4,13
+"Highland Park, NJ",8.5,5,17
+"Phillipsburg, NJ",16.6,2,10
+"Massapequa Park, NY",4.1,1,8
+"Edgewater, NJ",6.5,3,15
+"Hampton Bays, NY",7.7,2,10
+"South River, NJ",12.4,5,17
+"West Hempstead, NY",4.2,2,13
+"Wantagh, NY",3.8,1,7
+"New Milford, NJ",4.9,2,12
+"Spanish Springs, NV",5.6,3,14
+"Islip, NY",4.4,2,10
+"Ronkonkoma, NY",3.5,2,10
+"Bethpage, NY",3.9,1,9
+"Ocean Acres, NJ",2.4,2,8
+"Colonia, NJ",5.7,3,15
+"Glassboro, NJ",20.1,2,10
+"Collingswood, NJ",11.8,4,13
+"Lebanon, NH",7.8,3,12
+"North Massapequa, NY",4.3,1,8
+"Syosset, NY",4,2,10
+"Batavia, NY",16,4,12
+"Johnson City, NY",19.6,5,13
+"Olean, NY",23.5,5,13
+"Kings Park, NY",2.9,1,7
+"Gloversville, NY",22.5,5,13
+"Selden, NY",6,2,10
+"Bridgeton, NJ",35.1,7,15
+"Dumont, NJ",5.5,2,12
+"Greece, NY",7.1,3,11
+"Nanuet, NY",6.6,2,11
+"North Arlington, NJ",10.2,2,14
+"Glens Falls, NY",11.6,3,10
+"Eggertsville, NY",9,2,10
+"Harrison, NJ",17.2,4,19
+"Holtsville, NY",5.5,2,11
+"North Bellmore, NY",3.4,1,7
+"Iselin, NJ",4.8,3,15
+"Sun Valley, NV",17.8,4,14
+"Boulder City, NV",11.4,3,13
+"Cortland, NY",21.9,3,11
+"Depew, NY",8.8,2,10
+"Lake Ronkonkoma, NY",8.3,2,10
+"Elmwood Park, NJ",9.8,4,16
+"Melville, NY",4.8,1,8
+"Pleasantville, NJ",24.5,4,13
+"East Massapequa, NY",3.7,1,8
+"Hauppauge, NY",5.4,2,9
+"Laconia, NH",10.3,3,11
+"East Northport, NY",5,2,8
+"Rutherford, NJ",4.2,2,14
+"Tonawanda, NY",10.9,2,10
+"Mamaroneck, NY",5,2,13
+"Asbury Park, NJ",20.5,4,15
+"Merrick, NY",1.9,1,7
+"Woodbridge, NJ",3.7,3,15
+"Copiague, NY",10.7,4,15
+"Kenmore, NY",8.3,2,10
+"Hawthorne, NJ",4.3,2,13
+"Huntington, NY",6.5,2,9
+"Lynbrook, NY",4.5,2,13
+"Elko, NV",12.3,5,14
+"Massapequa, NY",3.4,1,8
+"Gallup, NM",28.2,9,20
+"North Plainfield, NJ",12,3,14
+"Rotterdam, NY",5.7,4,12
+"Point Pleasant, NJ",3.3,2,9
+"Holiday City-Berkeley, NJ",8.7,3,10
+"Amsterdam, NY",23.8,5,13
+"Cohoes, NY",16.1,2,11
+"Roselle, NJ",8.2,4,17
+"Palisades Park, NJ",11.9,3,15
+"Fernley, NV",7.9,3,13
+"Garden City, NY",2.5,2,12
+"Oswego, NY",25.2,3,10
+"Secaucus, NJ",5.7,5,21
+"Lackawanna, NY",22.1,3,12
+"Lindenwold, NJ",16.5,4,13
+"Mineola, NY",6.3,2,13
+"Summit, NJ",6.3,1,9
+"Eastchester, NY",3.8,5,17
+"Plattsburgh, NY",19.2,4,13
+"Baldwin, NY",4,2,11
+"South Plainfield, NJ",3.3,2,14
+"Carteret, NJ",8.6,3,15
+"Old Bridge, NJ",4.9,2,10
+"Mesquite, NV",8.2,8,20
+"Tinton Falls, NJ",9.1,2,9
+"Medford, NY",6.4,2,12
+"East Patchogue, NY",8.3,2,12
+"Morristown, NJ",10.7,2,10
+"Lodi, NJ",10.8,4,16
+"Lockport, NY",12.4,3,10
+"Derry, NH",8.3,2,9
+"Somerset, NJ",6.1,2,13
+"Kingston, NY",18.9,3,11
+"Keene, NH",11.6,3,12
+"Peekskill, NY",10.8,3,13
+"Rockville Centre, NY",4.3,2,11
+"Portsmouth, NH",6,2,8
+"Ada, OK",18.7,5,16
+"Albemarle, NC",23.9,4,13
+"Alliance, OH",25.8,3,10
+"Altamont, OR",20.4,6,15
+"Altus, OK",16.8,6,15
+"Amherst, OH",4.9,2,9
+"Archdale, NC",7.3,5,13
+"Ardmore, OK",18.9,6,15
+"Ashland, OH",13.1,4,13
+"Ashland, OR",16.2,3,10
+"Ashtabula, OH",31.3,6,14
+"Athens, OH",43.1,6,14
+"Aurora, OH",1.6,3,11
+"Avon Lake, OH",4.7,2,9
+"Avon, OH",4.5,2,9
+"Bay Village, OH",3.7,2,9
+"Beachwood, OH",4.9,2,11
+"Bedford Heights, OH",11.1,8,19
+"Bedford, OH",11.2,8,19
+"Bellefontaine, OH",12.2,4,12
+"Belmont, NC",14.8,5,14
+"Berea, OH",10.5,3,11
+"Bethany, OK",16.7,5,15
+"Bexley, OH",4.4,9,19
+"Blue Ash, OH",4.8,5,13
+"Boone, NC",55.3,5,12
+"Brecksville, OH",5.8,2,9
+"Bridgetown, OH",7.6,4,14
+"Broadview Heights, OH",1.8,2,9
+"Brook Park, OH",9.7,3,11
+"Brooklyn, OH",12.2,3,12
+"Bucyrus, OH",18.2,4,13
+"Bull Mountain, OR",4.6,2,11
+"Cambridge, OH",31.1,5,13
+"Canby, OR",9.2,2,10
+"Carrboro, NC",12.1,3,12
+"Cedar Mill, OR",7,3,12
+"Celina, OH",8.8,3,12
+"Centerville, OH",6.8,2,10
+"Central Point, OR",9.6,4,13
+"Chickasha, OK",17,3,12
+"Chillicothe, OH",20.2,5,14
+"Choctaw, OK",5.7,5,14
+"Circleville, OH",25.4,3,10
+"Claremore, OK",11.3,2,12
+"Clayton, OH",7.6,4,13
+"Clayton, NC",7.8,4,14
+"Clemmons, NC",5.4,3,11
+"Conneaut, OH",21.7,6,14
+"Coos Bay, OR",15.7,4,13
+"Cornelius, OR",10.4,3,12
+"Coshocton, OH",21,5,13
+"Cottage Grove, OR",21.3,3,10
+"Dallas, OR",14.5,3,13
+"Damascus, OR",3.5,2,10
+"Davidson, NC",6.5,2,13
+"Defiance, OH",13.7,4,12
+"Del City, OK",19.8,6,16
+"Dent, OH",7.6,2,9
+"Dickinson, ND",12.3,4,13
+"Dover, OH",13.6,4,13
+"Duncan, OK",17.3,5,14
+"Durant, OK",21.1,5,16
+"East Cleveland, OH",39,7,18
+"East Liverpool, OH",29,5,13
+"Eastlake, OH",6.7,3,11
+"Eden, NC",19.8,5,13
+"El Reno, OK",18.3,2,12
+"Elizabeth City, NC",21.2,6,14
+"Elk City, OK",24,6,15
+"Elon, NC",24.5,6,15
+"Englewood, OH",4.8,5,14
+"Fairview Park, OH",9.6,3,11
+"Finneytown, OH",7.4,5,15
+"Forest Grove, OR",10.4,3,12
+"Forest Park, OH",8.4,4,13
+"Forestville, OH",4.5,2,9
+"Fostoria, OH",24.6,4,12
+"Four Corners, OR",14.4,4,14
+"Franklin, OH",19,2,10
+"Fremont, OH",17.3,4,12
+"Galion, OH",20.2,4,13
+"Gladstone, OR",16.2,2,11
+"Glenpool, OK",8.6,4,13
+"Graham, NC",23.7,6,15
+"Greenville, OH",12.6,3,12
+"Guthrie, OK",20.7,4,12
+"Guymon, OK",27.2,5,14
+"Happy Valley, OR",4,2,11
+"Harrisburg, NC",2.8,4,14
+"Harrison, OH",4.8,2,9
+"Havelock, NC",13.1,6,15
+"Hayesville, OR",19.3,5,16
+"Heath, OH",9.9,3,10
+"Henderson, NC",25.6,8,17
+"Hendersonville, NC",15.1,3,11
+"Hermiston, OR",13.3,6,15
+"Hope Mills, NC",15.8,5,17
+"Hudson, OH",3.2,1,9
+"Ironton, OH",25.8,5,13
+"Jamestown, ND",14.4,4,13
+"Jenks, OK",7.4,4,13
+"Kernersville, NC",11.5,3,11
+"Kings Mountain, NC",20.7,5,13
+"Kinston, NC",27.9,7,16
+"Klamath Falls, OR",23,6,15
+"Knightdale, NC",5.1,5,17
+"La Grande, OR",19.6,6,15
+"Laurinburg, NC",33.2,9,17
+"Lebanon, OH",7.6,2,9
+"Lebanon, OR",15.4,3,13
+"Leland, NC",4.3,3,10
+"Lenoir, NC",17.1,5,13
+"Lewisville, NC",10.4,3,11
+"Lexington, NC",24.9,6,14
+"Lincoln Village, OH",10.4,3,13
+"Lincolnton, NC",21.6,5,13
+"London, OH",13.9,3,10
+"Loveland, OH",7.7,2,9
+"Lumberton, NC",31.1,12,20
+"Lyndhurst, OH",3.2,2,11
+"Macedonia, OH",4.6,1,9
+"Mack, OH",2.3,2,9
+"Mandan, ND",8.9,3,11
+"Maple Heights, OH",22.9,8,19
+"Marietta, OH",24.4,4,11
+"Marysville, OH",6.9,3,10
+"Maumee, OH",5.2,2,9
+"Mayfield Heights, OH",8.8,2,11
+"McAlester, OK",23.7,7,15
+"Mebane, NC",10,5,14
+"Miami, OK",24.1,5,14
+"Miamisburg, OH",12.7,3,12
+"Middleburg Heights, OH",4.1,3,11
+"Milwaukie, OR",9.1,2,11
+"Monfort Heights, OH",2.3,4,14
+"Monmouth, OR",23.4,3,13
+"Monroe, OH",3.4,2,10
+"Montgomery, OH",1.5,2,9
+"Morganton, NC",27,5,12
+"Mount Airy, NC",29.3,6,14
+"Mount Holly, NC",9.3,5,13
+"Mount Vernon, OH",19.3,4,13
+"Murraysville, NC",5.3,4,12
+"Mustang, OK",5.2,2,12
+"Myrtle Grove, NC",4.9,4,13
+"New Albany, OH",1.9,2,12
+"New Franklin, OH",4.3,3,10
+"New Philadelphia, OH",17.1,4,13
+"Newberg, OR",8.8,3,13
+"Newport, OR",14.1,3,12
+"Newton, NC",10.3,4,12
+"Niles, OH",11,6,13
+"North Canton, OH",8.3,6,14
+North Carolina,13.4,3,14
+North Dakota,11.1,3,10
+"Northbrook, OH",16.7,4,15
+"Norton, OH",8.3,3,10
+"Norwalk, OH",13.3,4,13
+"Norwood, OH",21.6,5,13
+"Oak Grove, OR",11,2,11
+"Oak Hills, OR",7.9,3,12
+"Oatfield, OR",8.1,2,11
+Ohio,13.4,4,13
+Oklahoma,15.6,5,21
+"Okmulgee, OK",23,6,15
+"Ontario, OR",21.4,6,15
+Oregon,12.2,2,11
+"Oregon, OH",8.6,3,10
+"Oxford, OH",44.8,4,12
+"Painesville, OH",21.4,3,11
+"Parma Heights, OH",14.8,3,12
+"Pataskala, OH",6.7,3,10
+"Pendleton, OR",15.5,6,15
+"Perrysburg, OH",4.6,2,9
+"Pickerington, OH",3.7,3,11
+"Pinehurst, NC",4.2,4,13
+"Piney Green, NC",14.1,4,16
+"Piqua, OH",11.1,3,11
+"Ponca City, OK",17.5,5,14
+"Portsmouth, OH",34.7,5,13
+"Powell, OH",1.6,1,9
+"Prineville, OR",13.9,5,15
+"Ravenna, OH",22.2,3,11
+"Reading, OH",10.6,5,13
+"Reidsville, NC",28.5,5,13
+"Richmond Heights, OH",10,2,11
+"Roanoke Rapids, NC",20.4,11,18
+"Rocky River, OH",5.2,3,11
+"Roseburg, OR",17.3,3,13
+"Salem, OH",15.6,5,13
+"Sand Springs, OK",9.7,4,13
+"Sandusky, OH",22.6,4,12
+"Sandy, OR",7.7,2,10
+"Sapulpa, OK",13,4,13
+"Seven Hills, OH",7,3,12
+"Sharonville, OH",7.9,3,12
+"Shelby, NC",19,6,14
+"Sherwood, OR",4.3,2,12
+"Sidney, OH",14,3,12
+"Silverton, OR",9.7,3,13
+"Smithfield, NC",30,4,14
+"Solon, OH",3.4,2,11
+"South Euclid, OH",13.3,7,18
+"Southern Pines, NC",10.1,4,13
+"Spring Lake, NC",22.1,5,17
+"Springboro, OH",2.9,2,10
+"Springdale, OH",11.4,5,13
+"St. Helens, OR",14.3,3,12
+"Stallings, NC",5.6,1,11
+"Steubenville, OH",25.4,4,11
+"Streetsboro, OH",9.7,3,11
+"Struthers, OH",18.6,6,13
+"Summerfield, NC",7.4,3,13
+"Sylvania, OH",5.4,2,9
+"Tahlequah, OK",20.1,7,17
+"Tallmadge, OH",6.3,2,10
+"Tarboro, NC",24.5,7,17
+"The Dalles, OR",9.5,5,15
+"Tiffin, OH",12.8,4,13
+"Trenton, OH",4.4,4,12
+"Trotwood, OH",25.5,5,14
+"Troutdale, OR",7.9,4,15
+"Twinsburg, OH",3.9,1,9
+US,12.8,5,14
+"University Heights, OH",12.5,7,18
+"Urbana, OH",16.6,4,12
+"Van Wert, OH",15.1,3,12
+"Vandalia, OH",7.6,5,14
+"Vermilion, OH",4.8,5,13
+"Wadsworth, OH",8.1,2,9
+"Warr Acres, OK",16.5,5,14
+"Warrensville Heights, OH",20.9,8,19
+"Washington Court House, OH",21.2,5,14
+"Waxhaw, NC",3.6,2,11
+"Weatherford, OK",23.8,6,15
+"Weddington, NC",2.1,1,10
+"West Carrollton, OH",14.6,3,12
+"White Oak, OH",6.6,5,15
+"Whitehall, OH",21.3,9,19
+"Wickliffe, OH",7.7,3,11
+"Willoughby, OH",6.7,3,11
+"Willowick, OH",6.8,3,11
+"Wilmington, OH",21.9,5,14
+"Wilsonville, OR",9.5,2,10
+"Woodward, OK",17.3,5,14
+"Worthington, OH",2.3,4,13
+"Allison Park, PA",3.6,2,9
+"Ardmore, PA",5.6,1,9
+"Arlington, TN",6.1,4,15
+"Athens, TN",22.1,4,13
+"Baldwin, PA",7.4,2,10
+"Beaufort, SC",20.1,5,13
+"Berea, SC",21.6,6,14
+"Berwick, PA",19.2,4,11
+"Bloomsburg, PA",28.1,4,11
+"Bluffton, SC",5.6,5,13
+"Brookings, SD",15.3,4,12
+"Broomall, PA",3.9,1,8
+"Butler, PA",23.8,2,9
+"Carlisle, PA",15.5,3,10
+"Carnot-Moon, PA",4,3,11
+"Cayce, SC",17.2,4,13
+"Central Falls, RI",24.9,6,15
+"Chambersburg, PA",13.5,4,13
+"Clemson, SC",36.4,5,13
+"Coatesville, PA",26.8,2,11
+"Collegedale, TN",10.8,2,10
+"Colonial Park, PA",15.6,6,16
+"Columbia, PA",16.3,2,10
+"Conway, SC",17.8,5,12
+"Crossville, TN",22.2,5,12
+"Croydon, PA",15.4,3,11
+"Darby, PA",27.7,5,17
+"Dentsville, SC",22.3,5,16
+"Dickson, TN",17.3,3,12
+"Dunmore, PA",9.2,5,13
+"Dyersburg, TN",23.7,7,15
+"Easley, SC",11.8,5,13
+"East Ridge, TN",15.5,8,18
+"East Stroudsburg, PA",15.7,4,14
+"Elizabethton, TN",21.6,5,12
+"Elizabethtown, PA",9.9,2,10
+"Emmaus, PA",6.8,2,10
+"Ephrata, PA",9.7,3,11
+"Farragut, TN",3.3,2,10
+"Five Forks, SC",3.7,6,14
+"Forest Acres, SC",11.2,5,16
+"Fort Mill, SC",3.6,4,14
+"Franklin Park, PA",2.9,2,8
+"Fullerton, PA",10.7,2,10
+"Gaffney, SC",24.2,8,15
+"Gantt, SC",30.9,5,14
+"Garden City, SC",11,4,12
+"Goodlettsville, TN",10.2,5,15
+"Greeneville, TN",14.9,5,12
+"Greensburg, PA",15.9,3,9
+"Greenwood, SC",25.1,9,15
+"Hanahan, SC",12.2,6,17
+"Hanover, PA",13.1,2,9
+"Hartsville, TN",12.5,6,14
+"Hazleton, PA",23.6,6,14
+"Hermitage, PA",12,5,13
+"Hershey, PA",8.7,2,10
+"Horsham, PA",3.8,2,10
+"Huron, SD",14.5,4,12
+"Indiana, PA",28.2,3,11
+"Irmo, SC",5.3,5,15
+"James Island, SC",4,2,9
+"Jefferson Hills, PA",3,2,9
+"Johnstown, PA",33.7,4,10
+"King of Prussia, PA",3.7,1,10
+"Kingston, PA",16.2,3,10
+"Ladson, SC",13.7,4,14
+"Lake Wylie, SC",8.7,3,12
+"Lakeland, TN",5.8,4,16
+"Lansdale, PA",8.1,2,10
+"Lansdowne, PA",11.4,5,17
+"Lawrenceburg, TN",28.1,5,13
+"Lewisburg, TN",20.5,5,15
+"Lexington, SC",8.4,4,12
+"Lower Burrell, PA",5.4,3,9
+"Manchester, TN",16.4,5,13
+"Martin, TN",29.2,6,13
+"McKeesport, PA",27.4,5,12
+"McMinnville, TN",27.7,6,14
+"Meadville, PA",19.6,4,12
+"Middle Valley, TN",5,2,10
+"Millington, TN",18.1,4,14
+"Mitchell, SD",16.3,4,12
+"Moncks Corner, SC",10.1,3,11
+"Montgomeryville, PA",2.8,2,10
+"Mountain Top, PA",4.9,5,12
+"Munhall, PA",12.3,5,12
+"Murrysville, PA",3.4,3,9
+"Nanticoke, PA",17.4,4,11
+"New Castle, PA",26.2,4,11
+"New Kensington, PA",22.9,3,9
+"Newberry, SC",22.6,8,15
+"Newport East, RI",9.8,3,10
+"Newport, RI",15.5,3,10
+"North Augusta, SC",7.7,5,13
+"North Myrtle Beach, SC",7.8,4,12
+"Oak Grove, SC",15.8,4,13
+"Orangeburg, SC",32.1,10,17
+"Paris, TN",27.2,6,13
+"Park Forest Village, PA",16.6,3,11
+"Parker, SC",31.7,6,14
+Pennsylvania,12.1,3,14
+"Phoenixville, PA",12.5,2,9
+"Pierre, SD",15.9,7,17
+"Port Royal, SC",5.5,5,13
+"Portland, TN",14.3,3,11
+"Pottstown, PA",15.4,2,10
+"Pottsville, PA",20.6,4,12
+"Progress, PA",10.4,6,16
+"Red Bank, SC",9.2,4,12
+"Red Bank, TN",13.7,4,12
+"Red Hill, SC",18.3,5,12
+Rhode Island,11.4,4,12
+"Seven Oaks, SC",9.6,4,13
+"Sevierville, TN",19,4,13
+"Seymour, TN",5.7,4,12
+"Sharon, PA",23.1,5,13
+"Shelbyville, TN",19,5,15
+"Shiloh, PA",5.7,5,13
+"Simpsonville, SC",5.7,5,14
+"Socastee, SC",15.9,4,12
+"Soddy-Daisy, TN",8.3,2,9
+South Carolina,14.6,6,16
+South Dakota,12.3,4,13
+"Spearfish, SD",15.4,3,11
+"Springfield, TN",23.6,3,12
+"St. Andrews, SC",22.7,7,18
+"St. Marys, PA",8.7,4,12
+"Taylors, SC",7.7,4,12
+"Tega Cay, SC",0.5,3,12
+Tennessee,13.6,5,13
+"Tullahoma, TN",17.2,5,13
+"Union City, TN",25.2,7,15
+US,12.8,5,14
+"Valley Falls, RI",6.4,6,15
+"Vermillion, SD",25.2,2,11
+"Wade Hampton, SC",9,6,14
+"Washington, PA",19.6,2,9
+"Watertown, SD",13.2,3,13
+"Waynesboro, PA",14.5,3,12
+"Weigelstown, PA",6.1,2,9
+"West Chester, PA",22.1,2,9
+"West Columbia, SC",13.3,4,13
+"West Mifflin, PA",13.9,5,12
+"Westerly, RI",5.5,2,9
+"White House, TN",5.7,3,11
+"Whitehall, PA",9.8,2,10
+"Wilkinsburg, PA",23.4,4,13
+"Willow Grove, PA",5.9,2,10
+"Wyomissing, PA",5,2,10
+"Yankton, SD",10.4,2,11
+"Yeadon, PA",8.8,5,17
+"Aberdeen, SD",12.9,3,13
+"Aiken, SC",14.4,5,13
+"Albany, OR",11.1,3,13
+"Aloha, OR",9.2,3,13
+"Altoona, PA",20.3,4,11
+"Alvin, TX",11.7,3,14
+"Anderson, SC",21.2,5,13
+"Austintown, OH",13.5,6,13
+"Balch Springs, TX",11.9,7,21
+"Barberton, OH",17.5,3,10
+"Bartlesville, OK",15,4,13
+"Bartlett, TN",4.9,6,16
+"Beavercreek, OH",7.2,3,11
+"Bedford, TX",5.8,5,17
+"Bethany, OR",5.1,3,12
+"Bethel Park, PA",4.1,2,9
+"Big Spring, TX",19.2,7,15
+"Bixby, OK",6.9,4,13
+"Bowling Green, OH",30.9,3,11
+"Brentwood, TN",2.6,2,9
+"Bristol, TN",19.6,3,10
+"Brunswick, OH",6.3,2,9
+"Burleson, TX",6.5,3,13
+"Canton, OH",30.3,6,14
+"Canyon Lake, TX",7.3,2,11
+"Cedar Hill, TX",9.4,5,20
+"Cedar Park, TX",5.6,2,12
+"Channelview, TX",19.5,4,17
+"Chester, PA",28.5,6,16
+"Cibolo, TX",5.4,3,13
+"Cleburne, TX",13.6,3,13
+"Cleveland Heights, OH",16.4,7,18
+"Cleveland, TN",18,4,13
+"Cloverleaf, TX",28.1,9,25
+"Colleyville, TX",2.7,2,11
+"Collierville, TN",2.8,2,12
+"Columbia, TN",12.5,5,15
+"Converse, TX",12.1,3,15
+"Cookeville, TN",21.7,6,14
+"Coppell, TX",2.6,3,16
+"Copperas Cove, TX",10.3,4,13
+"Corvallis, OR",25.6,3,13
+"Cuyahoga Falls, OH",9.5,4,12
+"DeSoto, TX",8,6,21
+"Deer Park, TX",8.1,4,17
+"Del Rio, TX",19.6,13,19
+"Delaware, OH",7.1,1,9
+"Drexel Hill, PA",8.4,5,17
+"Dublin, OH",1.9,2,11
+"Duncanville, TX",9.3,6,20
+"Eagle Pass, TX",25.8,13,19
+"East Providence, RI",10.9,4,12
+"Easton, PA",17.6,4,13
+"Elyria, OH",20.3,7,14
+"Enid, OK",15,5,14
+"Euclid, OH",20.6,7,18
+"Euless, TX",8.1,4,17
+"Fairborn, OH",17.4,3,11
+"Fairfield, OH",7.1,4,13
+"Farmers Branch, TX",9.6,4,18
+"Findlay, OH",13.5,4,12
+"Florence, SC",18.1,7,16
+"Fresno, TX",5.9,2,14
+"Friendswood, TX",3.4,3,14
+"Gahanna, OH",5.2,2,12
+"Gallatin, TN",14.5,3,11
+"Galveston, TX",18.6,5,15
+"Garfield Heights, OH",21.3,8,19
+"Georgetown, TX",7.7,2,11
+"Germantown, TN",2.4,2,12
+"Goose Creek, SC",8.5,6,17
+"Grants Pass, OR",16.4,4,13
+"Grapevine, TX",5.8,2,11
+"Green, OH",6.7,3,10
+"Greenville, SC",13.9,5,15
+"Greenville, TX",16.2,3,13
+"Greer, SC",10.2,3,12
+"Grove City, OH",4.9,4,12
+"Haltom City, TX",15.6,6,19
+"Hamilton, OH",16.4,4,13
+"Harker Heights, TX",10,5,18
+"Harlingen, TX",26.6,8,19
+"Harrisburg, PA",28.2,6,16
+"Hendersonville, TN",7.1,3,11
+"Hilliard, OH",4.6,2,12
+"Hilton Head Island, SC",7.6,5,13
+"Huber Heights, OH",7.9,5,14
+"Huntsville, TX",28.1,7,15
+"Hurst, TX",11.9,4,15
+"Hutto, TX",8.7,3,11
+"Jackson, TN",23.7,7,15
+"Johnson City, TN",21.6,4,12
+"Keizer, OR",10.4,5,16
+"Keller, TX",3.5,2,10
+"Kent, OH",23.4,3,11
+"Kettering, OH",8.9,2,10
+"Kingsport, TN",20.7,4,11
+"Kingsville, TX",31.3,12,18
+"Kyle, TX",6.3,3,15
+"La Porte, TX",10.7,4,15
+"La Vergne, TN",11.1,3,14
+"Lake Jackson, TX",7.9,4,14
+"Lake Oswego, OR",4.2,2,10
+"Lakewood, OH",12.5,3,11
+"Lancaster, OH",15.1,3,11
+"Lancaster, PA",19.1,5,14
+"Lancaster, TX",14.7,6,21
+"Leander, TX",4.7,2,12
+"Lebanon, PA",25.3,3,11
+"Lebanon, TN",14.5,3,11
+"Levittown, PA",6.3,2,10
+"Lima, OH",24.9,5,13
+"Little Elm, TX",7.5,2,12
+"Lorain, OH",26.3,7,14
+"Lufkin, TX",20.9,8,17
+"Mansfield, OH",25.4,5,12
+"Mansfield, TX",5.3,2,13
+"Marion, OH",22,4,13
+"Maryville, TN",8.4,3,10
+"Mason, OH",3.3,2,10
+"Massillon, OH",14.5,3,10
+"Mauldin, SC",6.5,5,15
+"McMinnville, OR",17.9,3,13
+"Medina, OH",8.3,2,9
+"Mentor, OH",4.7,3,11
+"Middletown, OH",20.4,4,12
+"Midlothian, TX",5.4,3,13
+"Midwest City, OK",15.2,4,14
+"Mission Bend, TX",10.9,3,17
+"Missouri City, TX",5.8,4,18
+"Monroeville, PA",8.5,4,13
+"Moore, OK",10.3,3,13
+"Morristown, TN",25.5,6,13
+"Mount Juliet, TN",5.7,3,11
+"Muskogee, OK",24,6,15
+"Myrtle Beach, SC",19.4,4,12
+"Nacogdoches, TX",30.4,8,17
+"Newark, OH",16.8,3,10
+"Norristown, PA",17.1,3,13
+"North Olmsted, OH",10.6,2,9
+"North Richland Hills, TX",7.7,3,13
+"North Ridgeville, OH",5.8,2,9
+"North Royalton, OH",4.4,2,9
+"Oak Ridge, TN",14.6,5,13
+Ohio,13.4,4,13
+Oklahoma,15.6,5,21
+Oregon,12.2,2,11
+"Oregon City, OR",6,2,11
+"Owasso, OK",6.2,6,16
+"Pawtucket, RI",14.9,6,15
+Pennsylvania,12.1,3,14
+"Pflugerville, TX",5.3,3,16
+"Plum, PA",3.6,4,13
+"Port Arthur, TX",25.8,6,16
+"Redmond, OR",7.8,2,11
+"Reynoldsburg, OH",9.9,5,17
+Rhode Island,11.4,4,12
+"Riverside, OH",15.8,9,18
+"Rock Hill, SC",13.5,4,14
+"Rockwall, TX",3.5,3,13
+"Rosenberg, TX",16.7,3,15
+"Rowlett, TX",7.1,3,15
+"Sachse, TX",2.7,3,14
+"San Juan, TX",26,9,22
+"San Marcos, TX",30.6,3,15
+"Schertz, TX",4.8,3,13
+"Seguin, TX",17.1,3,13
+"Shaker Heights, OH",8,2,11
+"Shawnee, OK",18.5,4,12
+"Sherman, TX",13.6,4,13
+"Smyrna, TN",11.9,3,14
+"Socorro, TX",23.3,7,21
+South Carolina,14.6,6,16
+South Dakota,12.3,4,13
+"Southlake, TX",2.3,2,11
+"Spartanburg, SC",24,7,17
+"Spring, TX",9.5,3,16
+"Spring Hill, TN",2.5,3,11
+"Springfield, OH",22,5,12
+"Springfield, OR",16,3,13
+"State College, PA",43.4,3,11
+"Stillwater, OK",31.2,6,15
+"Stow, OH",6.9,2,10
+"Strongsville, OH",4.5,2,9
+"Summerville, SC",10.4,4,14
+"Sumter, SC",20.4,8,17
+"Temple, TX",16.5,5,14
+Tennessee,13.6,5,13
+"Texarkana, TX",21.3,6,14
+Texas,14.2,6,18
+"Texas City, TX",15.9,5,15
+"The Colony, TX",7.2,2,12
+"Tigard, OR",6.7,2,11
+"Troy, OH",8.8,3,11
+"Tualatin, OR",10.2,2,11
+US,12.8,5,14
+"University Park, TX",4.8,4,15
+"Upper Arlington, OH",2.3,2,11
+"Victoria, TX",18.1,4,14
+"Warren, OH",34.6,6,13
+"Waxahachie, TX",9.5,3,13
+"Weatherford, TX",9.1,2,10
+"Weslaco, TX",26.2,9,21
+"West Linn, OR",4.7,2,10
+"West Odessa, TX",15.7,6,17
+"Westerville, OH",5.4,3,12
+"Westlake, OH",4.9,2,9
+"Wilkes-Barre, PA",20.4,6,14
+"Williamsport, PA",24.4,4,11
+"Woodburn, OR",14.4,3,13
+"Woonsocket, RI",18.7,4,11
+"Wooster, OH",11.6,4,12
+"Wylie, TX",6.7,2,13
+"Xenia, OH",18.5,3,11
+"York, PA",28.7,5,13
+"Youngstown, OH",35.3,6,13
+"Yukon, OK",9.2,2,12
+"Zanesville, OH",26.7,5,13
+"Addison, TX",8.7,4,18
+"Alamo, TX",23.5,10,22
+"Aldine, TX",33.6,14,27
+"Alice, TX",23.9,12,18
+"Alpine, UT",6.9,1,11
+"Alton, TX",30.6,10,23
+"Andrews, TX",15.4,9,17
+"Angleton, TX",12.7,3,14
+"Anna, TX",9.3,2,13
+"Athens, TX",24.3,6,14
+"Azle, TX",10,2,12
+"Bacliff, TX",18.8,2,12
+"Bailey's Crossroads, VA",23,4,16
+"Bay City, TX",23.3,7,15
+"Beeville, TX",24.3,6,14
+"Bellaire, TX",2.1,5,17
+"Bellmead, TX",20.3,3,13
+"Belton, TX",19.4,5,14
+"Benbrook, TX",6.5,5,15
+"Bluffdale, UT",2.5,2,11
+"Boerne, TX",6.7,4,12
+"Bon Air, VA",5.2,4,16
+"Bonham, TX",18.1,4,13
+"Borger, TX",13.8,8,17
+"Brambleton, VA",0.8,1,12
+"Brandermill, VA",6.2,2,10
+"Brenham, TX",14.1,6,14
+"Brigham City, UT",8.8,4,13
+"Bristol, VA",17.7,4,12
+"Broadlands, VA",2,1,12
+"Brownwood, TX",16.8,5,13
+"Brushy Creek, TX",3.2,2,14
+"Buckhall, VA",3.4,4,18
+"Buda, TX",6,3,15
+"Bull Run, VA",13.1,4,18
+"Burkburnett, TX",9.8,5,14
+"Burke Centre, VA",5.3,1,11
+"Canyon, TX",15.4,3,12
+"Cascades, VA",2.3,2,13
+"Cedar Hills, UT",5.2,1,11
+"Celina, TX",8.3,2,12
+"Centerville, UT",3.3,2,10
+"Chantilly, VA",3.9,2,13
+"Cherry Hill, VA",9.6,3,17
+"Chester, VA",10.1,2,12
+"Christiansburg, VA",12.9,3,12
+"Cinco Ranch, TX",8,3,17
+"Clinton, UT",2.9,2,11
+"Clute, TX",9.3,4,14
+"Colonial Heights, VA",9,7,17
+"Corinth, TX",4.1,3,14
+"Corsicana, TX",13,7,15
+"Crowley, TX",7,4,16
+"Culpeper, VA",9.7,3,12
+"Denison, TX",18.1,4,13
+"Dickinson, TX",10.6,3,13
+"Donna, TX",43.2,10,22
+"Dranesville, VA",2.6,2,12
+"Dumas, TX",12.6,8,17
+"East Highland Park, VA",13.8,5,17
+"El Campo, TX",19.8,7,15
+"Elgin, TX",9.8,4,14
+"Ennis, TX",15.1,3,13
+"Essex Junction, VT",7.6,2,10
+"Fairfax Station, VA",2.3,1,11
+"Fairfax, VA",10.1,1,11
+"Falls Church, VA",2.5,1,10
+"Farmington, UT",3.5,2,10
+"Fate, TX",1.6,3,13
+"Forest, VA",4.6,3,12
+"Forest Hill, TX",15.5,8,20
+"Forney, TX",8.2,4,14
+"Fort Bliss, TX",11.5,6,21
+"Fort Hood, TX",16.5,4,14
+"Fort Hunt, VA",1.9,3,14
+"Four Corners, TX",11.4,3,18
+"Franconia, VA",3.7,2,12
+"Franklin Farm, VA",2.9,2,12
+"Fredericksburg, TX",11.5,4,12
+"Freeport, TX",20.9,4,14
+"Front Royal, VA",14.5,4,12
+"Gainesville, VA",3.9,1,10
+"Gainesville, TX",23.1,4,13
+"Galena Park, TX",29.8,9,25
+"Gatesville, TX",13,4,13
+"Glen Allen, VA",7,5,17
+"Glenn Heights, TX",9.1,5,18
+"Grantsville, UT",5,4,13
+"Great Falls, VA",3.1,1,10
+"Groves, TX",10.9,6,16
+"Groveton, VA",10.9,3,14
+"Heber, UT",4.8,4,14
+"Henderson, TX",7.4,6,16
+"Hereford, TX",14.4,8,17
+"Herndon, VA",7.3,2,12
+"Hewitt, TX",7.6,3,12
+"Hidalgo, TX",29.6,9,22
+"Highland Springs, VA",15,5,17
+"Highland Village, TX",1.8,1,9
+"Highland, UT",1.3,1,11
+"Hollins, VA",7.2,3,10
+"Hopewell, VA",24,7,17
+"Horizon City, TX",15.5,6,21
+"Humble, TX",17.9,5,18
+"Huntington, VA",7.1,3,14
+"Hurricane, UT",10.6,2,11
+"Hybla Valley, VA",18.7,3,14
+"Idylwood, VA",6,1,10
+"Ingleside, TX",10.1,6,14
+"Jacinto City, TX",17.8,9,25
+"Jacksonville, TX",22.2,6,16
+"Katy, TX",2.2,2,15
+"Kerrville, TX",13.7,4,12
+"Kilgore, TX",15.2,6,16
+"Kings Park West, VA",7,1,11
+"Kingstowne, VA",3.9,2,13
+"La Homa, TX",35.7,9,22
+"La Marque, TX",14,5,15
+"Lake Monticello, VA",3.8,3,11
+"Lakeside, VA",9.6,5,17
+"Lakeway, TX",3,2,11
+"Lansdowne, VA",4,1,12
+"Laurel, VA",8.9,4,14
+"Leon Valley, TX",14,4,15
+"Levelland, TX",17.5,10,17
+"Lincolnia, VA",8.9,4,16
+"Lindon, UT",3.1,2,13
+"Live Oak, TX",7.9,3,15
+"Lockhart, TX",10.7,4,14
+"Lorton, VA",7.8,2,12
+"Lowes Island, VA",0.7,2,13
+"Lumberton, TX",5.2,4,11
+"Madison Heights, VA",12.6,3,12
+"Manassas Park, VA",4.4,4,18
+"Manchester, VA",12.1,4,16
+"Manvel, TX",4.3,3,14
+"Marshall, TX",25,7,14
+"Martinsville, VA",25.4,7,15
+"McNair, VA",5.5,2,12
+"Meadowbrook, VA",12,4,15
+"Mercedes, TX",27,9,21
+"Merrifield, VA",7.6,2,11
+"Mineral Wells, TX",16.2,4,12
+"Montclair, VA",4.2,3,17
+"Mount Pleasant, TX",17.1,7,15
+"Mount Vernon, VA",10.8,3,14
+"Murphy, TX",4.7,2,12
+"Nederland, TX",8,6,16
+"New Baltimore, VA",2.6,3,12
+"Newington, VA",1.6,2,12
+"Newington Forest, VA",4.6,1,12
+"North Logan, UT",13.8,2,12
+"North Ogden, UT",7.5,2,12
+"North Salt Lake, UT",2.9,2,10
+"Orange, TX",17,4,11
+"Palestine, TX",18.8,6,14
+"Pampa, TX",17.1,8,17
+"Paris, TX",23,7,15
+"Payson, UT",7.5,1,12
+"Pearsall, TX",28,4,13
+"Pecan Grove, TX",7.8,3,15
+"Pecos, TX",17.9,9,17
+"Plainview, TX",18.4,10,17
+"Pleasant View, UT",6.1,2,12
+"Pleasanton, TX",14.5,4,13
+"Poquoson, VA",4.4,2,11
+"Port Lavaca, TX",11.4,4,14
+"Port Neches, TX",8.9,6,16
+"Portland, TX",7.9,6,14
+"Princeton, TX",5.7,2,13
+"Prosper, TX",2.8,2,12
+"Radford, VA",35.4,3,12
+"Raymondville, TX",32.8,12,18
+"Red Oak, TX",8.1,3,13
+"Rendon, TX",8.8,4,16
+"Richmond, TX",19.8,4,15
+"Rio Grande City, TX",29.5,16,22
+"Robinson, TX",2.6,3,12
+"Robstown, TX",30,4,14
+"Rockport, TX",17.9,6,14
+"Roma, TX",34.9,16,22
+"Rose Hill, VA",3.6,3,14
+"Royse City, TX",4.5,3,13
+"Rutland, VT",12.2,3,12
+"Saginaw, TX",4.1,2,13
+"San Benito, TX",32,8,19
+"Santa Fe, TX",6.2,5,15
+"Santaquin, UT",3.8,1,12
+"Seabrook, TX",6.3,3,13
+"Seagoville, TX",14.1,12,24
+"Selma, TX",7.1,3,15
+"Smithfield, UT",7.4,2,12
+"Snyder, TX",14.1,5,13
+"South Burlington, VT",7.7,2,10
+"South Houston, TX",20,7,24
+"South Ogden, UT",6.8,4,13
+"Stafford, TX",11.9,3,15
+"Staunton, VA",12.3,4,13
+"Stephenville, TX",20.5,4,12
+"Stone Ridge, VA",0.7,1,11
+"Sudley, VA",7.2,4,18
+"Sugarland Run, VA",4.7,2,13
+"Sulphur Springs, TX",13.9,7,15
+"Sweetwater, TX",18.8,5,13
+"Taylor, TX",11.5,3,11
+"Terrell, TX",13.4,4,14
+Texas,14.2,6,18
+"Timberlake, VA",5.6,5,14
+"Timberwood Park, TX",5.1,2,12
+"Tomball, TX",11.7,2,12
+"Trophy Club, TX",2.5,1,9
+"Tysons, VA",6.7,10,6
+US,12.8,5,14
+"Universal City, TX",13.2,3,15
+Utah,8.6,1,11
+"Uvalde, TX",20.9,13,19
+Vermont,10.3,3,7
+"Vernal, UT",19,4,14
+"Vernon, TX",17.1,4,13
+"Vidor, TX",11.6,4,11
+"Vienna, VA",3.7,2,11
+Virginia,10.2,2,8
+"Wakefield, VA",1.9,1,11
+"Watauga, TX",9.3,2,11
+"Waynesboro, VA",16.6,4,13
+"Webster, TX",16.9,4,16
+"Wells Branch, TX",14,3,16
+"West Haven, UT",4.7,2,12
+"West Point, UT",1.6,2,11
+"West Springfield, VA",3.9,2,12
+"West University Place, TX",1.9,2,11
+"White Settlement, TX",10.1,4,14
+"Williamsburg, VA",15.5,2,11
+"Wolf Trap, VA",2.9,2,11
+"Woodlawn, VA",10.7,10,21
+"Woods Cross, UT",5.5,2,10
+"Wyndham, VA",1.1,3,13
+"American Fork, UT",6.3,2,13
+"Annandale, VA",10.7,4,16
+"Appleton,WI",9.6,2,10
+"Ashburn, VA",3.5,1,12
+"Beloit,WI",17.7,3,11
+"Blacksburg, VA",45.2,3,12
+"Bothell, WA",4.5,2,11
+"Bountiful, UT",5.1,2,10
+"Bremerton, WA",14.6,3,12
+"Brookfield,WI",3.1,1,8
+"Burien, WA",11.7,5,17
+"Burke, VA",1.8,1,11
+"Burlington, VT",23.8,2,10
+"Caledonia,WI",5.1,5,13
+"Casper, WY",10.9,3,11
+"Cave Spring, VA",6.4,3,10
+"Cedar City, UT",19,4,13
+"Centreville, VA",6.8,2,13
+"Charleston, WV",17.5,4,11
+"Charlottesville, VA",23.1,3,12
+"Cheyenne, WY",8.7,3,12
+"Clearfield, UT",11.6,2,11
+"Cottonwood Heights, UT",6.1,2,11
+"Dale City, VA",6.2,3,17
+"Danville, VA",23.1,7,15
+"Des Moines, WA",11.3,4,16
+"Draper, UT",4.7,1,10
+"Eagle Mountain, UT",4.6,1,12
+"Eau Claire,WI",15.5,3,11
+"Edmonds, WA",4.4,2,12
+"Fair Oaks, VA",5.4,2,13
+"Fitchburg,WI",10.4,2,11
+"Fond du Lac,WI",11.6,2,10
+"Franklin,WI",4.9,3,11
+"Fredericksburg, VA",14.3,2,13
+"Gillette, WY",10.1,4,12
+"Graham, WA",7,2,11
+"Greenfield,WI",8.5,3,12
+"Harrisonburg, VA",25.8,4,13
+"Herriman, UT",5.7,1,12
+"Holladay, UT",6.4,3,11
+"Huntington, WV",30.2,5,11
+"Issaquah, WA",7.4,1,11
+"Janesville,WI",9,3,11
+"Kaysville, UT",3.2,2,11
+"Kearns, UT",9.8,3,16
+"La Crosse,WI",22.1,3,11
+"Lacey, WA",9.6,3,12
+"Lake Ridge, VA",4.8,3,17
+"Lake Stevens, WA",5.4,2,10
+"Lakewood, WA",13.6,4,16
+"Laramie, WY",25.3,3,12
+"Leesburg, VA",3.6,2,11
+"Lehi, UT",5.2,1,11
+"Linton Hall, VA",1.2,1,10
+"Logan, UT",24.6,2,12
+"Longview, WA",13.7,3,12
+"Lynnwood, WA",15.6,3,12
+"Magna, UT",8.2,4,17
+"Manassas, VA",5.6,4,18
+"Manitowoc,WI",14.1,3,12
+"Maple Valley, WA",4.6,2,9
+"Marysville, WA",6.1,2,11
+"McLean, VA",2.2,1,10
+"Mechanicsville, VA",5.5,2,10
+"Menomonee Falls,WI",3.5,1,8
+"Mercer Island, WA",4.9,1,11
+"Midvale, UT",9.7,2,11
+"Millcreek, UT",8.8,3,12
+"Morgantown, WV",34.1,3,11
+"Mount Pleasant,WI",7,5,13
+"Mount Vernon, WA",16.5,3,12
+"Murray, UT",6.8,3,13
+"Neenah,WI",11,3,11
+"New Berlin,WI",3.9,1,8
+"Oak Creek,WI",4.9,3,11
+"Oakton, VA",5.2,2,11
+"Olympia, WA",14,3,12
+"Oshkosh,WI",16.5,3,11
+"Parkersburg, WV",21.7,4,10
+"Parkland, WA",12.5,5,16
+"Pasco, WA",15.4,4,15
+"Petersburg, VA",21.3,7,17
+"Pleasant Grove, UT",6.1,2,13
+"Pullman, WA",33.6,6,15
+"Puyallup, WA",6.6,2,12
+"Redmond, WA",6,1,12
+"Reston, VA",6.4,2,12
+"Richland, WA",8.1,4,14
+"Riverton, UT",3.2,2,11
+"Roy, UT",5.8,2,12
+"Salem, VA",10,6,15
+"Sammamish, WA",3.1,1,11
+"Saratoga Springs, UT",4.7,1,12
+"SeaTac, WA",10.7,5,17
+"Sheboygan,WI",11,3,11
+"Shoreline, WA",8.4,2,11
+"Short Pump, VA",4.2,3,13
+"South Hill, WA",5.7,2,12
+"South Jordan, UT",2.8,2,11
+"South Riding, VA",3.4,1,12
+"South Salt Lake, UT",18.2,3,13
+"Spanaway, WA",10.8,5,16
+"Spanish Fork, UT",6.1,1,11
+"Springfield, VA",6.5,2,13
+"Springville, UT",7.7,1,11
+"Sterling, VA",7.7,2,13
+"Stevens Point,WI",17.9,3,12
+"Sun Prairie,WI",5.6,2,10
+"Superior,WI",13.2,4,12
+"Syracuse, UT",6,2,11
+"Taylorsville, UT",9,4,16
+"Tooele, UT",5.1,4,13
+"Tuckahoe, VA",6.6,3,13
+US,12.8,5,14
+"University Place, WA",7.6,3,13
+Utah,8.6,1,11
+Vermont,10.3,3,7
+Virginia,10.2,2,8
+"Walla Walla, WA",13.5,5,14
+Washington,9.9,2,13
+"Washington, UT",4.6,2,11
+"Waukesha,WI",10.6,2,10
+"Wausau,WI",12.5,3,10
+"Wauwatosa,WI",6,3,12
+"Wenatchee, WA",13.3,4,14
+"West Allis,WI",10.4,3,12
+"West Bend,WI",7.4,2,9
+"West Falls Church, VA",5.7,5,12
+West Virginia,16.8,3,12
+"Wheeling, WV",16.5,4,10
+"Winchester, VA",13.3,3,11
+Wisconsin,10.8,2,9
+Wyoming,11.4,1,13
+"Aberdeen, WA",25.2,5,13
+"Allouez,WI",5.6,2,10
+"Anacortes, WA",8.3,3,12
+"Arlington, WA",6.9,2,11
+"Artondale, WA",2.6,2,10
+"Ashwaubenon,WI",10.8,2,10
+"Bainbridge Island, WA",2.6,2,10
+"Baraboo,WI",11.3,3,11
+"Battle Ground, WA",6.4,2,10
+"Beaver Dam,WI",6.4,3,13
+"Beckley, WV",22.9,6,13
+"Bellevue,WI",6.7,2,10
+"Bonney Lake, WA",5.1,2,11
+"Bothell East, WA",2.5,1,11
+"Bothell West, WA",3.6,1,11
+"Brown Deer,WI",9.4,3,12
+"Bryn Mawr-Skyway, WA",13.2,3,15
+"Burlington,WI",11.4,5,13
+"Camano, WA",5.8,2,8
+"Camas, WA",3.8,2,11
+"Cedarburg,WI",5.3,2,9
+"Centralia, WA",22.1,4,13
+"Cheney, WA",34.2,2,11
+"Chippewa Falls,WI",12.3,3,11
+"Clarksburg, WV",24.1,4,12
+"Cottage Lake, WA",2.5,1,9
+"Covington, WA",4.8,2,10
+"Cudahy,WI",11.8,3,11
+"De Pere,WI",7.5,2,10
+"DeForest,WI",11.9,2,10
+"East Renton Highlands, WA",3.6,2,11
+"East Wenatchee, WA",10.9,4,14
+"Eastmont, WA",6.4,4,14
+"Edgewood, WA",3.8,2,11
+"Elk Plain, WA",8.8,2,11
+"Ellensburg, WA",22.7,6,16
+"Enumclaw, WA",7.7,2,9
+"Evanston, WY",9.4,4,13
+"Fairmont, WV",19.9,4,12
+"Fairwood, WA",9.1,3,15
+"Ferndale, WA",11.3,3,12
+"Fife, WA",12.8,2,11
+"Five Corners, WA",7.6,2,11
+"Fort Atkinson,WI",6.9,3,13
+"Fort Lewis, WA",15.9,4,16
+"Fox Crossing, WI",7.6,8,10
+"Frederickson, WA",5,3,13
+"Germantown,WI",3.1,2,9
+"Glendale,WI",12.4,3,12
+"Grafton,WI",3.2,2,9
+"Grandview, WA",14.2,6,18
+"Green River, WY",5.4,4,13
+"Greendale,WI",4.5,3,12
+"Harrison, WI",3.4,0,8
+"Hartford,WI",7.8,2,9
+"Hazel Dell, WA",9.9,2,12
+"Howard,WI",7.4,2,10
+"Hudson,WI",6.8,2,11
+"Jackson, WY",5.9,3,12
+"Kaukauna,WI",7.6,2,11
+"Kelso, WA",21.1,3,12
+"Kenmore, WA",6.1,2,11
+"Lake Forest Park, WA",3.3,2,11
+"Lake Morton-Berrydale, WA",6.6,2,10
+"Lake Stickney, WA",12.3,3,15
+"Lake Tapps, WA",2.2,2,11
+"Lakeland North, WA",9.2,3,15
+"Lakeland South, WA",4.9,3,15
+"Little Chute,WI",4.8,2,11
+"Lynden, WA",6.9,3,12
+"Maltby, WA",3.7,1,11
+"Marinette,WI",14.3,3,11
+"Marshfield,WI",10.4,3,12
+"Martha Lake, WA",8.4,3,14
+"Martinsburg, WV",24.3,4,12
+"Menasha,WI",10.5,3,11
+"Menomonie,WI",19.9,2,11
+"Mequon,WI",3.3,2,9
+"Middleton,WI",8.1,2,11
+"Midland, WA",17.6,4,16
+"Mill Creek East, WA",3.7,1,11
+"Mill Creek, WA",3.7,2,12
+"Minnehaha, WA",6.7,2,12
+"Monroe, WA",7.6,2,10
+"Monroe,WI",5.8,3,12
+"Moses Lake, WA",10.2,6,16
+"Mountlake Terrace, WA",6.4,2,12
+"Mukilteo, WA",5.6,3,15
+"Muskego,WI",2.8,1,8
+"Newcastle, WA",3.6,1,11
+"North Lynnwood, WA",8.1,3,15
+"Oak Harbor, WA",8.6,3,12
+"Oconomowoc,WI",6.5,1,8
+"Onalaska,WI",4.9,3,11
+"Orchards, WA",12.7,2,10
+"Oregon,WI",4.7,2,10
+"Pewaukee,WI",2.3,2,10
+"Platteville,WI",25.6,3,12
+"Pleasant Prairie,WI",7.2,4,12
+"Plover,WI",7.1,3,12
+"Port Angeles, WA",11.5,3,12
+"Port Orchard, WA",10.2,3,12
+"Port Washington,WI",6.2,2,9
+"Portage,WI",12.3,3,11
+"Poulsbo, WA",10.9,2,10
+"Prairie Ridge, WA",3,2,10
+"Richfield,WI",2,2,9
+"River Falls,WI",15.9,3,12
+"Riverton, WY",13.5,4,13
+"Rock Springs, WY",10.4,4,13
+"Salmon Creek, WA",8.7,2,12
+"Sedro-Woolley, WA",12.7,3,12
+"Shelton, WA",24.5,5,13
+"Sheridan, WY",10.8,3,12
+"Shorewood,WI",10.5,3,12
+"Silver Firs, WA",6.5,1,11
+"Silverdale, WA",7.4,2,10
+"Snoqualmie, WA",0.2,1,9
+"South Charleston, WV",18.3,4,11
+"South Milwaukee,WI",13.2,3,11
+"St. Albans, WV",15,4,11
+"Stoughton,WI",7.8,2,10
+"Suamico,WI",1.6,2,10
+"Sumner, WA",6.5,2,11
+"Sunnyside, WA",18.6,6,18
+"Sussex,WI",6.2,2,10
+"Teays Valley, WV",5.5,3,10
+"Tukwila, WA",12.4,5,17
+"Tumwater, WA",8.5,3,12
+"Two Rivers,WI",9,3,12
+"Union Hill-Novelty Hill, WA",2.8,1,9
+US,12.8,5,14
+"Vashon, WA",9,4,16
+"Verona,WI",1.6,2,11
+"Vienna, WV",10.5,4,10
+Washington,9.9,2,13
+"Washougal, WA",14,2,11
+"Watertown,WI",8.7,3,13
+"Waunakee,WI",3.8,2,11
+"Waupun,WI",8.9,3,12
+"Weirton, WV",13.4,4,10
+"West Richland, WA",5.8,4,15
+West Virginia,16.8,3,12
+"Weston,WI",5.8,3,10
+"White Center, WA",16.4,5,17
+"Whitefish Bay,WI",5.2,3,12
+"Whitewater,WI",33.6,3,12
+Wisconsin,10.8,2,9
+"Wisconsin Rapids,WI",15.8,3,12
+"Woodinville, WA",3.2,1,9
+Wyoming,11.4,1,13
+"Adelanto, CA",21,7,21
+"Alexandria, VA",9.6,3,15
+"Aliso Viejo, CA",4.9,1,10
+"Altadena, CA",5.9,2,12
+"Antelope, CA",10,5,18
+"Apple Valley, CA",16.9,5,17
+"Arcadia, CA",8.9,3,16
+"Arlington, VA",6.5,2,13
+"Atascadero, CA",8.8,3,12
+"Atwater, CA",17.3,7,20
+"Auburn, WA",9.6,3,14
+"Azusa, CA",14.6,5,20
+"Banning, CA",19,4,15
+"Bay Point, CA",12.7,4,18
+"Beaumont, CA",8.8,4,15
+"Bell Gardens, CA",25.6,11,30
+"Bell, CA",23.3,11,30
+"Bellevue, WA",6.9,2,13
+"Bellingham, WA",19.7,3,12
+"Belmont, CA",5.9,2,13
+"Benicia, CA",5.1,4,16
+"Beverly Hills, CA",10.2,2,13
+"Brawley, CA",25.8,8,21
+"Brea, CA",6.5,2,13
+"Brentwood, CA",6.6,2,13
+"Burlingame, CA",4.2,2,12
+"Calexico, CA",21,8,21
+California,12.3,5,14
+"Camarillo, CA",7.6,2,12
+"Campbell, CA",5.5,2,14
+"Carmichael, CA",11.6,3,12
+"Castro Valley, CA",6.3,3,16
+"Cathedral City, CA",18.8,4,13
+"Ceres, CA",16.1,5,19
+"Cerritos, CA",4.8,3,15
+"Chesapeake, VA",8,3,14
+"Claremont, CA",4.6,2,13
+"Coachella, CA",14.5,8,19
+"Colton, CA",14.8,5,19
+"Covina, CA",9,3,16
+"Culver City, CA",6.1,2,13
+"Cupertino, CA",5.1,1,11
+"Cypress, CA",7.3,3,14
+"Dana Point, CA",5.6,2,11
+"Danville, CA",4.8,1,10
+"Davis, CA",26.4,4,16
+"Delano, CA",18.7,7,20
+"Desert Hot Springs, CA",26.3,4,13
+"Diamond Bar, CA",7.9,3,15
+"Dublin, CA",3.7,2,12
+"East Palo Alto, CA",12,3,14
+"Eastvale, CA",4.3,4,18
+"El Centro, CA",23.7,8,21
+"El Cerrito, CA",6.8,3,15
+"El Dorado Hills, CA",4.7,2,10
+"El Paso de Robles (Paso Robles), CA",9.2,3,12
+"Encinitas, CA",6.7,1,10
+"Eureka, CA",19.5,5,15
+"Everett, WA",11,4,14
+"Fair Oaks, CA",8.3,3,12
+"Fallbrook, CA",15.4,3,12
+"Federal Way, WA",11.3,4,16
+"Florence-Graham, CA",22.6,11,29
+"Florin, CA",20.7,5,17
+"Foothill Farms, CA",18.3,7,19
+"Foster City, CA",3.5,2,12
+"Fountain Valley, CA",8.3,3,15
+"French Valley, CA",6.6,4,15
+"Galt, CA",9.2,3,14
+"Gardena, CA",12.3,7,22
+"Gilroy, CA",7.4,3,14
+"Glendora, CA",7.6,2,13
+"Goleta, CA",10.2,3,14
+"Green Bay,WI",15.4,5,14
+"Hacienda Heights, CA",8.4,3,16
+"Hampton, VA",14.4,6,18
+"Hanford, CA",15.5,6,19
+"Hercules, CA",5.5,3,14
+"Highland, CA",14.4,7,20
+"Hollister, CA",9.3,6,20
+"Huntington Park, CA",19.9,11,29
+"Imperial Beach, CA",13.4,6,22
+"Isla Vista, CA",71.5,3,14
+"Kennewick, WA",14.1,4,13
+"Kenosha,WI",14.8,4,12
+"Kent, WA",11.3,4,17
+"Kirkland, WA",6.8,2,12
+"La Habra, CA",10.4,2,13
+"La Mesa, CA",11.8,2,13
+"La Mirada, CA",5.5,3,16
+"La Presa, CA",11,4,16
+"La Puente, CA",9.4,5,21
+"La Quinta, CA",11,5,14
+"La Verne, CA",8.5,2,13
+"Ladera Ranch, CA",2.5,1,10
+"Lafayette, CA",4.5,1,8
+"Laguna Hills, CA",9.7,1,10
+"Laguna Niguel, CA",7.2,2,11
+"Lake Elsinore, CA",13.2,3,15
+"Lawndale, CA",9.8,7,22
+"Layton, UT",7,2,11
+"Lemon Grove, CA",8.7,4,15
+"Lemoore, CA",12.7,6,19
+"Lincoln, CA",6.8,2,10
+"Lodi, CA",14.4,4,15
+"Lompoc, CA",19.4,4,16
+"Los Altos, CA",2.7,2,12
+"Los Banos, CA",13.8,6,21
+"Los Gatos, CA",3.5,1,11
+"Lynchburg, VA",17.6,5,14
+"Lynwood, CA",16.5,9,27
+"Madera, CA",27.4,6,18
+"Madison,WI",16.6,3,12
+"Manhattan Beach, CA",3.1,1,11
+"Martinez, CA",6.1,3,14
+"Maywood, CA",20.9,11,30
+"Menlo Park, CA",5.8,3,14
+"Milwaukee,WI",24.1,9,20
+"Monrovia, CA",9.2,3,16
+"Montclair, CA",17.8,4,18
+"Montebello, CA",11.4,6,20
+"Monterey Park, CA",11.4,5,19
+"Monterey, CA",11.9,3,14
+"Moorpark, CA",5,2,13
+"Morgan Hill, CA",3.6,3,14
+"National City, CA",15.2,7,22
+"Newark, CA",4.3,2,15
+"Newport News, VA",15.8,6,18
+"Norco, CA",4.6,4,17
+"Norfolk, VA",17.4,7,19
+"North Highlands, CA",21.9,7,19
+"Novato, CA",7.9,2,10
+"Oakley, CA",6.7,2,12
+"Ogden, UT",14.3,3,13
+"Oildale, CA",30.5,5,15
+"Orangevale, CA",8.1,2,11
+"Orcutt, CA",5.3,5,19
+"Orem, UT",10.5,2,13
+"Pacifica, CA",5.3,2,14
+"Palm Desert, CA",13.7,4,13
+"Palm Springs, CA",14.5,4,13
+"Palo Alto, CA",5,2,12
+"Paramount, CA",14.4,8,24
+"Petaluma, CA",5.9,2,12
+"Pico Rivera, CA",10,6,20
+"Pittsburg, CA",10.3,4,18
+"Placentia, CA",7.2,3,15
+"Pleasant Hill, CA",7.1,3,13
+"Porterville, CA",21,7,20
+"Portsmouth, VA",17.2,7,18
+"Poway, CA",5.1,1,11
+"Provo, UT",24.6,3,17
+"Racine,WI",19.8,5,13
+"Rancho Cordova, CA",11.2,3,15
+"Rancho Palos Verdes, CA",3.9,2,11
+"Rancho Santa Margarita, CA",4.5,1,10
+"Redlands, CA",8.7,3,14
+"Redondo Beach, CA",5.1,1,11
+"Reedley, CA",18.4,6,18
+"Renton, WA",7.9,3,15
+"Richmond, VA",19.8,8,17
+"Ridgecrest, CA",11.4,5,15
+"Roanoke, VA",18.4,6,15
+"Rocklin, CA",4.6,2,10
+"Rohnert Park, CA",10.4,2,12
+"Rosemead, CA",12.5,5,19
+"Rowland Heights, CA",10.8,3,15
+"Salt Lake City, UT",14.7,4,13
+"San Bruno, CA",5.4,2,14
+"San Carlos, CA",2.9,2,13
+"San Clemente, CA",5.3,2,11
+"San Dimas, CA",8.7,2,13
+"San Gabriel, CA",12.5,4,16
+"San Jacinto, CA",18,4,15
+"San Juan Capistrano, CA",6.5,2,11
+"San Lorenzo, CA",7.1,3,16
+"San Luis Obispo, CA",29.6,2,12
+"San Pablo, CA",12.4,7,22
+"San Rafael, CA",9.2,2,10
+"Sandy, UT",4.1,1,9
+"Sanger, CA",17.4,6,18
+"Santa Cruz, CA",18.7,3,12
+"Santa Paula, CA",17.1,4,16
+"Santee, CA",8,4,15
+"Saratoga, CA",2.9,1,11
+"Seaside, CA",12.3,3,14
+"Seattle, WA",10,3,12
+"Soledad, CA",20.1,6,20
+"South Pasadena, CA",6.1,4,17
+"South San Francisco, CA",6.3,2,14
+"South Whittier, CA",8.7,3,16
+"Spokane Valley, WA",10.6,3,11
+"Spokane, WA",15.6,3,12
+"Spring Valley, CA",13.6,4,15
+"St. George, UT",10.5,2,11
+"Stanton, CA",13.9,5,17
+"Suffolk, VA",9.6,5,15
+"Suisun City, CA",9.8,3,17
+"Tacoma, WA",12.5,4,14
+"Temescal Valley, CA",6.7,3,13
+"Temple City, CA",10.3,3,16
+"Tulare, CA",16,7,20
+"Turlock, CA",14.7,4,16
+"Twentynine Palms, CA",19.9,5,16
+"Union City, CA",5.5,2,15
+US,12.8,5,14
+Utah,8.6,1,11
+"Vancouver, WA",12.7,3,13
+Vermont,10.3,3,7
+"Vineyard, CA",12.7,3,14
+Virginia,10.2,2,8
+"Virginia Beach, VA",7.8,3,14
+"Walnut Creek, CA",5.4,1,10
+"Walnut, CA",7.6,3,16
+"Wasco, CA",19.2,7,20
+Washington,9.9,2,13
+"Watsonville, CA",12.9,3,14
+"West Hollywood, CA",11.9,2,13
+"West Jordan, UT",6.5,2,11
+"West Sacramento, CA",14.3,4,16
+"West Valley City, UT",10.9,4,16
+West Virginia,16.8,3,12
+"West Whittier-Los Nietos, CA",11,3,16
+"Westmont, CA",25.3,7,22
+"Wildomar, CA",9.7,2,14
+"Windsor, CA",3.8,2,10
+Wisconsin,10.8,2,9
+"Woodland, CA",9.3,4,16
+Wyoming,11.4,1,13
+"Yakima, WA",17.6,5,16
+"Yorba Linda, CA",5.3,2,13
+"Yuba City, CA",13,5,16
+"Yucaipa, CA",9.6,3,14
+"Agoura Hills, CA",3.6,1,9
+"Alamo, CA",3.5,1,8
+"Albany, CA",8.1,3,13
+"Alpine, CA",9,3,12
+"Alum Rock, CA",10.7,3,16
+"American Canyon, CA",7.2,3,13
+"Anderson, CA",19.8,3,12
+"Arcata, CA",34.7,5,15
+"Arroyo Grande, CA",5.6,2,12
+"Artesia, CA",6.7,3,15
+"Arvin, CA",27.9,5,15
+"Ashland, CA",15.9,3,16
+"Auburn, CA",12.9,2,9
+"Avenal, CA",25.6,6,19
+"Avocado Heights, CA",6.9,5,21
+"Barstow, CA",29.8,5,16
+"Big Bear City, CA",18.2,3,13
+"Bloomington, CA",14.1,6,20
+"Blythe, CA",22.4,8,19
+"Bonita, CA",6.1,4,18
+"Bostonia, CA",17.4,4,15
+"Calabasas, CA",9.4,1,9
+California,12.3,5,14
+"California City, CA",25.4,5,15
+"Cameron Park, CA",7.8,2,10
+"Camp Pendleton South, CA",8.9,3,17
+"Canyon Lake, CA",6.4,3,15
+"Capitola, CA",14.4,3,12
+"Carpinteria, CA",8.4,3,14
+"Casa de Oro-Mount Helix, CA",10.2,3,15
+"Castaic, CA",3.6,3,13
+"Charter Oak, CA",11.8,2,13
+"Cherryland, CA",11.5,3,16
+"Chowchilla, CA",16,6,18
+"Citrus, CA",10.2,5,20
+"Clayton, CA",1.2,2,11
+"Clearlake, CA",26.5,6,15
+"Coalinga, CA",16.5,9,23
+"Commerce, CA",14.8,11,30
+"Corcoran, CA",27.6,6,19
+"Coronado, CA",5.6,2,11
+"Coto de Caza, CA",3.8,1,10
+"Cudahy, CA",29.1,11,30
+"Delhi, CA",14.2,6,21
+"Diamond Springs, CA",11.9,2,10
+"Dinuba, CA",31.9,9,22
+"Discovery Bay, CA",7.1,2,12
+"Dixon, CA",6.7,2,13
+"Duarte, CA",9.1,5,20
+"East Hemet, CA",21.3,4,16
+"East Rancho Dominguez, CA",15.2,9,26
+"East San Gabriel, CA",9.4,3,16
+"East Whittier, CA",6.2,6,15
+"El Segundo, CA",4.5,1,11
+"El Sobrante, CA",9.6,3,14
+"El Sobrante, CA",3,3,14
+"Emeryville, CA",13.5,6,18
+"Exeter, CA",22,9,22
+"Fairview, CA",2.4,3,17
+"Farmersville, CA",24.4,9,22
+"Fillmore, CA",6.6,4,16
+"Fortuna, CA",14.7,5,15
+"Grand Terrace, CA",8.8,5,19
+"Granite Bay, CA",4.8,2,9
+"Grass Valley, CA",15.7,3,11
+"Greenfield, CA",11.9,6,20
+"Grover Beach, CA",9.4,2,12
+"Half Moon Bay, CA",6.8,2,12
+"Hawaiian Gardens, CA",17.2,3,15
+"Healdsburg, CA",10,2,10
+"Hermosa Beach, CA",4.5,1,11
+"Hillsborough, CA",2.4,2,12
+"Home Gardens, CA",13.1,2,14
+"Imperial, CA",9.2,8,21
+"Kerman, CA",16.2,9,23
+"King City, CA",16.8,6,20
+"Kingsburg, CA",8.4,6,18
+"La Canada Flintridge, CA",3.2,2,12
+"La Crescenta-Montrose, CA",6.6,2,12
+"La Palma, CA",6.4,3,14
+"La Riviera, CA",10.8,3,15
+"Laguna Beach, CA",5.7,2,10
+"Laguna Woods, CA",11.2,1,10
+"Lake Los Angeles, CA",16.9,3,13
+"Lakeland Village, CA",11,3,15
+"Lakeside, CA",8.6,2,12
+"Lamont, CA",28.2,10,25
+"Larkspur, CA",7.7,2,10
+"Lathrop, CA",11.3,3,16
+"Lemon Hill, CA",28.3,7,19
+"Lennox, CA",17.1,7,25
+"Linda, CA",22.4,5,16
+"Lindsay, CA",29.5,9,22
+"Live Oak, CA",9.6,3,12
+"Livingston, CA",18.6,6,21
+"Loma Linda, CA",13.6,5,18
+"Lomita, CA",11.8,2,11
+"Los Alamitos, CA",10.2,3,14
+"Los Osos, CA",10,2,12
+"Magalia, CA",13.3,4,12
+"Malibu, CA",8.6,1,9
+"Marina, CA",10.2,3,14
+"Marysville, CA",23.5,5,16
+"McFarland, CA",29.3,7,20
+"McKinleyville, CA",18,5,15
+"Mead Valley, CA",14.9,4,18
+"Mendota, CA",37.5,9,23
+"Mill Valley, CA",5.5,2,10
+"Millbrae, CA",6.6,2,12
+"Moraga, CA",4.9,1,8
+"Morro Bay, CA",7.9,2,12
+"Mountain House, CA",3.1,3,16
+"Muscoy, CA",24.9,9,23
+"Newman, CA",7.7,5,19
+"Nipomo, CA",9.6,2,12
+"North Auburn, CA",12.1,2,9
+"North Fair Oaks, CA",10.4,3,14
+"North Tustin, CA",3.5,2,14
+"Oak Hills, CA",7.5,5,16
+"Oak Park, CA",5.8,2,10
+"Oakdale, CA",12.1,4,16
+"Olivehurst, CA",11.9,5,16
+"Orange Cove, CA",48.7,6,18
+"Orinda, CA",2.1,1,8
+"Oroville, CA",21.2,4,12
+"Pacific Grove, CA",5.6,3,14
+"Palos Verdes Estates, CA",4.3,2,11
+"Paradise, CA",15.9,4,12
+"Parkway, CA",21.8,7,19
+"Parlier, CA",30.2,6,18
+"Patterson, CA",6.5,5,19
+"Phelan, CA",17.4,3,13
+"Piedmont, CA",4.3,2,11
+"Pinole, CA",5.2,3,14
+"Placerville, CA",13.3,2,10
+"Port Hueneme, CA",12.6,5,21
+"Prunedale, CA",6.4,4,15
+"Quartz Hill, CA",8.5,6,18
+"Ramona, CA",6.6,2,12
+"Rancho Mirage, CA",11.3,4,13
+"Rancho San Diego, CA",5.6,4,15
+"Red Bluff, CA",26.9,7,17
+"Rio Linda, CA",15.5,5,18
+"Ripon, CA",6.4,4,15
+"Riverbank, CA",14.3,4,16
+"Rodeo, CA",13.5,3,14
+"Rosamond, CA",14.6,5,15
+"Rosedale, CA",7.8,6,19
+"Rosemont, CA",14.7,3,15
+"Rossmoor, CA",3.6,3,14
+"Salida, CA",7.9,5,18
+"San Anselmo, CA",3.9,2,10
+"San Diego Country Estates, CA",1.8,2,12
+"San Fernando, CA",10.1,7,23
+"San Marino, CA",6.1,3,16
+"Santa Fe Springs, CA",11.5,3,16
+"Scotts Valley, CA",4.2,3,14
+"Seal Beach, CA",5.7,3,14
+"Selma, CA",23.4,9,23
+"Shafter, CA",22.2,7,20
+"Shasta Lake, CA",17.5,3,12
+"Sierra Madre, CA",5.7,2,12
+"Signal Hill, CA",15.5,7,21
+"Solana Beach, CA",4.7,1,10
+"Sonoma, CA",10.9,2,10
+"Soquel, CA",7,3,13
+"South El Monte, CA",21.5,8,24
+"South Lake Tahoe, CA",12.8,2,10
+"South San Jose Hills, CA",9.1,4,18
+"Stanford, CA",17.2,2,12
+"Stevenson Ranch, CA",5.1,3,13
+"Sun Village, CA",22.2,3,13
+"Susanville, CA",17.3,4,13
+"Tamalpais-Homestead Valley, CA",3.3,2,10
+"Tehachapi, CA",11.1,5,15
+"Truckee, CA",10,3,11
+"Ukiah, CA",18.1,6,15
+US,12.8,5,14
+"Valinda, CA",10.2,5,20
+"Valle Vista, CA",16,4,16
+"Valley Center, CA",13.1,3,12
+"View Park-Windsor Hills, CA",8.7,2,13
+"Vincent, CA",5.4,6,19
+"Walnut Park, CA",15.2,11,29
+"West Carson, CA",9,4,18
+"West Puente Valley, CA",11.1,5,21
+"West Rancho Dominguez, CA",14.1,9,26
+"Willowbrook, CA",20.8,9,26
+"Winter Gardens, CA",9.1,2,12
+"Winton, CA",20,7,20
+"Woodcrest, CA",5.3,2,14
+"Yucca Valley, CA",19,5,16
